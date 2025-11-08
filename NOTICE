@@ -1,0 +1,3 @@
+Our code (`Makefile`s, and `scripts/`) is licensed under [LICENSE](Apache licence 2.0). When using these files or our CorefUD conversions of the Korean KoCoNovel or the Japanese NTC 1.5 corpora included, we request reference to the following paper
+
+	Christian Chiarcos (2025), Revisiting the Givenness Hierarchy. A Corpus-Based Evaluation. In Proceedings of the Eighth Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2025), held in conjunction with EMNLP-2025, Souzhou, China, Nov 9th, 2025, Association of Computational Linguistics, p. 24-41. https://aclanthology.org/2025.crac-1.3/
