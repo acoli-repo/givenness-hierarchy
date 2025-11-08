@@ -1,0 +1,1303 @@
+# newdoc id = input_data/ParCorFull-1.0/news/EN/Basedata/10_words.xml
+# global.Entity = eid-etype-head-other
+# sent_id = 222
+# text = Russia 's Putin sacks chief of staff Sergei Ivanov
+1	Russia	Russia	PROPN	NNP	Number=Sing	3	nmod:poss	_	Entity=(e171--3-mention:np,nptype:antecedent
+2	's	's	PART	POS	_	1	case	_	_
+3	Putin	Putin	PROPN	NNP	Number=Sing	4	nsubj	_	Entity=e171)
+4	sacks	sack	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	chief	chief	NOUN	NN	Number=Sing	4	obj	_	Entity=(e172--1-mention:np,nptype:antecedent
+6	of	of	ADP	IN	_	7	case	_	_
+7	staff	staff	NOUN	NN	Number=Sing	5	nmod	_	_
+8	Sergei	Sergei	PROPN	NNP	Number=Sing	5	nmod	_	_
+9	Ivanov	Ivanov	PROPN	NNP	Number=Sing	8	flat	_	Entity=e172)
+
+# sent_id = 223
+# text = Russian President Vladimir Putin has unexpectedly dismissed his chief of staff Sergei Ivanov .
+1	Russian	Russian	ADJ	JJ	Degree=Pos	2	amod	_	Entity=(e171--2-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+2	President	President	PROPN	NNP	Number=Sing	7	nsubj	_	_
+3	Vladimir	Vladimir	PROPN	NNP	Number=Sing	2	flat	_	_
+4	Putin	Putin	PROPN	NNP	Number=Sing	2	flat	_	Entity=e171)
+5	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	unexpectedly	unexpectedly	ADV	RB	Degree=Pos	7	advmod	_	_
+7	dismissed	dismiss	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+8	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	Entity=(e171--1-agreement:singular,antetype:entity,mention:pronoun,position:non%2Dsubject,split:simple+antecedent,type:anaphoric,type_of_pronoun:possessive)
+9	chief	chief	NOUN	NN	Number=Sing	7	obj	_	_
+10	of	of	ADP	IN	_	11	case	_	_
+11	staff	staff	NOUN	NN	Number=Sing	9	nmod	_	_
+12	Sergei	Sergei	PROPN	NNP	Number=Sing	9	appos	_	Entity=(e172--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+13	Ivanov	Ivanov	PROPN	NNP	Number=Sing	12	flat	_	Entity=e172)
+14	.	.	PUNCT	.	_	7	punct	_	_
+
+# sent_id = 224
+# text = Mr Ivanov has been part of Mr Putin 's trusted inner circle for many years .
+1	Mr	mister	PROPN	NNP	Number=Sing	5	nsubj	_	Entity=(e172--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+2	Ivanov	Ivanov	PROPN	NNP	Number=Sing	1	flat	_	Entity=e172)
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	cop	_	_
+5	part	part	NOUN	NN	Number=Sing	0	root	_	_
+6	of	of	ADP	IN	_	12	case	_	_
+7	Mr	Mr	NOUN	NN	Number=Sing	12	nmod:poss	_	Entity=(e171--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+8	Putin	Putin	PROPN	NNP	Number=Sing	7	flat	_	Entity=e171)
+9	's	's	PART	POS	_	7	case	_	_
+10	trusted	trust	VERB	VBN	Tense=Past|VerbForm=Part	12	amod	_	_
+11	inner	inner	ADJ	JJ	Degree=Pos	12	amod	_	_
+12	circle	circle	NOUN	NN	Number=Sing	5	nmod	_	_
+13	for	for	ADP	IN	_	15	case	_	_
+14	many	many	ADJ	JJ	Degree=Pos	15	amod	_	_
+15	years	year	NOUN	NNS	Number=Plur	5	nmod	_	_
+16	.	.	PUNCT	.	_	5	punct	_	_
+
+# sent_id = 225
+# text = The 63-year-old has now been made a special representative for environmental and transport issues .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	Entity=(e172--2-anacata:anaphoric,antetype:entity,mention:np,npmod:def%2Darticle,nptype:np,split:simple+antecedent
+2	63-year-old	63-year-old	NOUN	NN	Number=Sing	6	nsubj:pass	_	Entity=e172)
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+4	now	now	ADV	RB	_	6	advmod	_	_
+5	been	be	AUX	VBN	Tense=Past|VerbForm=Part	6	aux:pass	_	_
+6	made	make	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	_
+8	special	special	ADJ	JJ	Degree=Pos	9	amod	_	_
+9	representative	representative	NOUN	NN	Number=Sing	6	xcomp	_	_
+10	for	for	ADP	IN	_	14	case	_	_
+11	environmental	environmental	ADJ	JJ	Degree=Pos	14	amod	_	_
+12	and	and	CCONJ	CC	_	13	cc	_	_
+13	transport	transport	NOUN	NN	Number=Sing	11	conj	_	_
+14	issues	issue	NOUN	NNS	Number=Plur	9	nmod	_	_
+15	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = 226
+# text = A statement from the Kremlin said that Mr Putin had `` decreed to relieve Ivanov of his duties as head of the Russian presidential administration , '' but gave no reason .
+1	A	a	DET	DT	Definite=Ind|PronType=Art	2	det	_	_
+2	statement	statement	NOUN	NN	Number=Sing	6	nsubj	_	_
+3	from	from	ADP	IN	_	5	case	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	Kremlin	Kremlin	PROPN	NNP	Number=Sing	2	nmod	_	_
+6	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	that	that	SCONJ	IN	_	12	mark	_	_
+8	Mr	mister	PROPN	NNP	Number=Sing	12	nsubj	_	Entity=(e171--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+9	Putin	Putin	PROPN	NNP	Number=Sing	8	flat	_	Entity=e171)
+10	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	_
+11	``	''	PUNCT	``	_	12	punct	_	_
+12	decreed	decree	VERB	VBN	Tense=Past|VerbForm=Part	6	ccomp	_	_
+13	to	to	PART	TO	_	14	mark	_	_
+14	relieve	relieve	VERB	VB	VerbForm=Inf	12	xcomp	_	_
+15	Ivanov	Ivanov	PROPN	NNP	Number=Sing	14	obj	_	Entity=(e172--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent)
+16	of	of	ADP	IN	_	18	case	_	_
+17	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	18	nmod:poss	_	Entity=(e172--1-agreement:singular,antetype:entity,mention:pronoun,position:non%2Dsubject,split:simple+antecedent,type:anaphoric,type_of_pronoun:possessive)
+18	duties	duty	NOUN	NNS	Number=Plur	14	obl	_	_
+19	as	as	ADP	IN	_	20	case	_	_
+20	head	head	NOUN	NN	Number=Sing	18	nmod	_	_
+21	of	of	ADP	IN	_	25	case	_	_
+22	the	the	DET	DT	Definite=Def|PronType=Art	25	det	_	_
+23	Russian	Russian	ADJ	JJ	Degree=Pos	25	amod	_	_
+24	presidential	presidential	ADJ	JJ	Degree=Pos	25	amod	_	_
+25	administration	administration	NOUN	NN	Number=Sing	20	nmod	_	_
+26	,	,	PUNCT	,	_	12	punct	_	_
+27	''	''	PUNCT	''	_	12	punct	_	_
+28	but	but	CCONJ	CC	_	29	cc	_	_
+29	gave	give	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	conj	_	_
+30	no	no	DET	DT	Polarity=Neg|PronType=Art	31	det	_	_
+31	reason	reason	NOUN	NN	Number=Sing	29	obj	_	_
+32	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = 227
+# text = Mr Ivanov 's deputy since 2012 , Anton Vaino , has been appointed as his successor .
+1	Mr	Mr	PROPN	NNP	Number=Sing	4	nmod:poss	_	_
+2	Ivanov	Ivanov	PROPN	NNP	Number=Sing	1	flat	_	Entity=(e172--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent)
+3	's	's	PART	POS	_	1	case	_	_
+4	deputy	deputy	NOUN	NN	Number=Sing	13	nsubj:pass	_	_
+5	since	since	ADP	IN	_	6	case	_	_
+6	2012	2012	NUM	CD	NumForm=Digit|NumType=Card	4	nmod	_	_
+7	,	,	PUNCT	,	_	8	punct	_	_
+8	Anton	Anton	PROPN	NNP	Number=Sing	4	appos	_	Entity=(e173--1-mention:np,nptype:antecedent
+9	Vaino	Vaino	PROPN	NNP	Number=Sing	8	flat	_	Entity=e173)
+10	,	,	PUNCT	,	_	4	punct	_	_
+11	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+12	been	be	AUX	VBN	Tense=Past|VerbForm=Part	13	aux:pass	_	_
+13	appointed	appoint	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+14	as	as	ADP	IN	_	16	case	_	_
+15	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	_	Entity=(e172--1-agreement:singular,antetype:entity,mention:pronoun,position:subject,split:simple+antecedent,type:anaphoric,type_of_pronoun:possessive)
+16	successor	successor	NOUN	NN	Number=Sing	13	obl	_	_
+17	.	.	PUNCT	.	_	13	punct	_	_
+
+# sent_id = 228
+# text = Mr Vaino , 44 , is a former diplomat .
+1	Mr	mister	PROPN	NNP	Number=Sing	9	nsubj	_	Entity=(e173--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+2	Vaino	Vaino	PROPN	NNP	Number=Sing	1	flat	_	Entity=e173)
+3	,	,	PUNCT	,	_	4	punct	_	_
+4	44	44	NUM	CD	NumForm=Digit|NumType=Card	1	appos	_	_
+5	,	,	PUNCT	,	_	1	punct	_	_
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	_
+8	former	former	ADJ	JJ	Degree=Pos	9	amod	_	_
+9	diplomat	diplomat	NOUN	NN	Number=Sing	0	root	_	_
+10	.	.	PUNCT	.	_	9	punct	_	_
+
+# sent_id = 229
+# text = Born in the Estonian capital Tallinn in 1972 , he graduated from the prestigious Moscow State Institute of International Relations ( MGIMO ) and served in the Tokyo embassy .
+1	Born	bear	VERB	VBN	Tense=Past|VerbForm=Part	11	advcl	_	_
+2	in	in	ADP	IN	_	6	case	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+4	Estonian	Estonian	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	capital	capital	NOUN	NN	Number=Sing	1	obl	_	_
+6	Tallinn	Tallinn	PROPN	NNP	Number=Sing	1	obl	_	_
+7	in	in	ADP	IN	_	8	case	_	_
+8	1972	1972	NUM	CD	NumForm=Digit|NumType=Card	1	obl	_	_
+9	,	,	PUNCT	,	_	1	punct	_	_
+10	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Entity=(e173--1-agreement:singular,antetype:entity,mention:pronoun,position:subject,split:simple+antecedent,type:anaphoric,type_of_pronoun:personal)
+11	graduated	graduate	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	from	from	ADP	IN	_	17	case	_	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	_
+14	prestigious	prestigious	ADJ	JJ	Degree=Pos	17	amod	_	_
+15	Moscow	Moscow	PROPN	NNP	Number=Sing	17	compound	_	_
+16	State	State	PROPN	NNP	Number=Sing	17	compound	_	_
+17	Institute	Institute	PROPN	NNP	Number=Sing	11	obl	_	_
+18	of	of	ADP	IN	_	20	case	_	_
+19	International	International	ADJ	NNP	Degree=Pos|Number=Sing	20	amod	_	_
+20	Relations	Relation	PROPN	NNPS	Number=Plur	17	nmod	_	_
+21	(	(	PUNCT	-LRB-	_	22	punct	_	_
+22	MGIMO	MGIMO	PROPN	NNP	Abbr=Yes|Number=Sing	20	appos	_	_
+23	)	)	PUNCT	-RRB-	_	22	punct	_	_
+24	and	and	CCONJ	CC	_	25	cc	_	_
+25	served	serve	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	conj	_	_
+26	in	in	ADP	IN	_	29	case	_	_
+27	the	the	DET	DT	Definite=Def|PronType=Art	29	det	_	_
+28	Tokyo	Tokyo	PROPN	NNP	Number=Sing	29	compound	_	_
+29	embassy	embassy	NOUN	NN	Number=Sing	25	obl	_	_
+30	.	.	PUNCT	.	_	11	punct	_	_
+
+# sent_id = 230
+# text = Later he managed presidential protocol and government staff , the Kremlin website says ( in Russian ) .
+1	Later	late	ADV	RBR	Degree=Cmp	3	advmod	_	_
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Entity=(e173--1-agreement:singular,antetype:entity,mention:pronoun,position:subject,split:simple+antecedent,type:anaphoric,type_of_pronoun:personal)
+3	managed	manage	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	presidential	presidential	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	protocol	protocol	NOUN	NN	Number=Sing	3	obj	_	_
+6	and	and	CCONJ	CC	_	8	cc	_	_
+7	government	government	NOUN	NN	Number=Sing	8	compound	_	_
+8	staff	staff	NOUN	NN	Number=Sing	5	conj	_	_
+9	,	,	PUNCT	,	_	13	punct	_	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	_
+11	Kremlin	Kremlin	PROPN	NNP	Number=Sing	12	compound	_	_
+12	website	website	NOUN	NN	Number=Sing	13	nsubj	_	_
+13	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+14	(	(	PUNCT	-LRB-	_	16	punct	_	_
+15	in	in	ADP	IN	_	16	case	_	_
+16	Russian	Russian	PROPN	NNP	Number=Sing	13	obl	_	_
+17	)	)	PUNCT	-RRB-	_	16	punct	_	_
+18	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = 231
+# text = On being appointed , he told Mr Putin : `` Thank you for your trust . ''
+1	On	on	SCONJ	IN	_	3	mark	_	_
+2	being	be	AUX	VBG	VerbForm=Ger	3	aux:pass	_	_
+3	appointed	appoint	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	advcl	_	_
+4	,	,	PUNCT	,	_	3	punct	_	_
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Entity=(e173--1-agreement:singular,antetype:entity,mention:pronoun,position:subject,split:simple+antecedent,type:anaphoric,type_of_pronoun:personal)
+6	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	Mr	mister	NOUN	NN	Number=Sing	6	obj	_	Entity=(e171--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+8	Putin	Putin	PROPN	NNP	Number=Sing	7	flat	_	Entity=e171)
+9	:	:	PUNCT	:	_	11	punct	_	_
+10	``	''	PUNCT	``	_	11	punct	_	_
+11	Thank	thank	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
+12	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	11	obj	_	_
+13	for	for	ADP	IN	_	15	case	_	_
+14	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	15	nmod:poss	_	_
+15	trust	trust	NOUN	NN	Number=Sing	11	obl	_	_
+16	.	.	PUNCT	.	_	6	punct	_	_
+17	''	''	PUNCT	''	_	11	punct	_	_
+
+# sent_id = 232
+# text = I think the administration 's most important task is to support your activity as head of state in terms of drafting laws and control over how your instructions are implemented .
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	think	think	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	administration	administration	NOUN	NN	Number=Sing	8	nmod:poss	_	_
+5	's	's	PART	POS	_	4	case	_	_
+6	most	most	ADV	RBS	Degree=Sup	7	advmod	_	_
+7	important	important	ADJ	JJ	Degree=Pos	8	amod	_	_
+8	task	task	NOUN	NN	Number=Sing	11	nsubj	_	_
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+10	to	to	PART	TO	_	11	mark	_	_
+11	support	support	VERB	VB	VerbForm=Inf	2	ccomp	_	_
+12	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	_	_
+13	activity	activity	NOUN	NN	Number=Sing	11	obj	_	_
+14	as	as	ADP	IN	_	15	case	_	_
+15	head	head	NOUN	NN	Number=Sing	13	nmod	_	_
+16	of	of	ADP	IN	_	17	case	_	_
+17	state	state	NOUN	NN	Number=Sing	15	nmod	_	_
+18	in	in	ADP	IN	_	19	case	_	_
+19	terms	term	NOUN	NNS	Number=Plur	11	obl	_	_
+20	of	of	SCONJ	IN	_	21	mark	_	_
+21	drafting	draft	VERB	VBG	VerbForm=Ger	19	acl	_	_
+22	laws	law	NOUN	NNS	Number=Plur	21	obj	_	_
+23	and	and	CCONJ	CC	_	24	cc	_	_
+24	control	control	VERB	VB	VerbForm=Inf	21	conj	_	_
+25	over	over	ADP	IN	_	26	case	_	_
+26	how	how	ADV	WRB	PronType=Rel	24	obl	_	_
+27	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	28	nmod:poss	_	_
+28	instructions	instruction	NOUN	NNS	Number=Plur	30	nsubj:pass	_	_
+29	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	aux:pass	_	_
+30	implemented	implement	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	26	acl:relcl	_	_
+31	.	.	PUNCT	.	_	2	punct	_	_
+
+# sent_id = 233
+# text = Mr Putin told a Russian TV station on Friday that Mr Ivanov had asked to leave the post , and recommended that Mr Vaino should replace him .
+1	Mr	Mr	PROPN	NNP	Number=Sing	3	nsubj	_	Entity=(e171--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+2	Putin	Putin	PROPN	NNP	Number=Sing	1	flat	_	Entity=e171)
+3	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	_
+5	Russian	Russian	ADJ	JJ	Degree=Pos	7	amod	_	_
+6	TV	TV	NOUN	NN	Number=Sing	7	compound	_	_
+7	station	station	NOUN	NN	Number=Sing	3	obj	_	_
+8	on	on	ADP	IN	_	9	case	_	_
+9	Friday	Friday	PROPN	NNP	Number=Sing	3	obl	_	_
+10	that	that	SCONJ	IN	_	14	mark	_	_
+11	Mr	mister	PROPN	NNP	Number=Sing	14	nsubj	_	Entity=(e172--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+12	Ivanov	Ivanov	PROPN	NNP	Number=Sing	11	flat	_	Entity=e172)
+13	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	aux	_	_
+14	asked	ask	VERB	VBN	Tense=Past|VerbForm=Part	3	ccomp	_	_
+15	to	to	PART	TO	_	16	mark	_	_
+16	leave	leave	VERB	VB	VerbForm=Inf	14	xcomp	_	_
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	_
+18	post	post	NOUN	NN	Number=Sing	16	obj	_	_
+19	,	,	PUNCT	,	_	21	punct	_	_
+20	and	and	CCONJ	CC	_	21	cc	_	_
+21	recommended	recommend	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
+22	that	that	SCONJ	IN	_	26	mark	_	_
+23	Mr	Mr	NOUN	NNP	Number=Sing	26	nsubj	_	Entity=(e173--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+24	Vaino	Vaino	PROPN	NNP	Number=Sing	23	flat	_	Entity=e173)
+25	should	should	AUX	MD	Number=Sing|Person=3|VerbForm=Fin	26	aux	_	_
+26	replace	replace	VERB	VB	VerbForm=Inf	21	ccomp	_	_
+27	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	obj	_	Entity=(e172--1-agreement:singular,antetype:entity,mention:pronoun,position:none,split:simple+antecedent,type:anaphoric,type_of_pronoun:personal)
+28	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = 234
+# text = Do the smiles convince ?
+1	Do	do	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_
+3	smiles	smile	NOUN	NNS	Number=Plur	4	nsubj	_	_
+4	convince	convince	VERB	VB	VerbForm=Inf	0	root	_	_
+5	?	?	PUNCT	.	_	4	punct	_	_
+
+# sent_id = 235
+# text = This is a move that has mystified Moscow .
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_
+4	move	move	NOUN	NN	Number=Sing	0	root	_	_
+5	that	that	PRON	WDT	PronType=Rel	7	nsubj	_	_
+6	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	mystified	mystify	VERB	VBN	Tense=Past|VerbForm=Part	4	acl:relcl	_	_
+8	Moscow	Moscow	PROPN	NNP	Number=Sing	7	obj	_	_
+9	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = 236
+# text = Sergei Ivanov has long been one of Vladimir Putin 's closest allies and , like him , served in the Soviet security service , the KGB .
+1	Sergei	Sergei	PROPN	NNP	Number=Sing	6	nsubj	_	Entity=(e174--1-mention:np,nptype:antecedent
+2	Ivanov	Ivanov	PROPN	NNP	Number=Sing	1	flat	_	Entity=e174)
+3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+4	long	long	ADV	RB	Degree=Pos	6	advmod	_	_
+5	been	be	AUX	VBN	Tense=Past|VerbForm=Part	6	cop	_	_
+6	one	one	NUM	CD	NumForm=Word|NumType=Card	0	root	_	_
+7	of	of	ADP	IN	_	12	case	_	_
+8	Vladimir	Vladimir	PROPN	NNP	Number=Sing	12	nmod:poss	_	Entity=(e171--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+9	Putin	Putin	PROPN	NNP	Number=Sing	8	flat	_	Entity=e171)
+10	's	's	PART	POS	_	8	case	_	_
+11	closest	close	ADJ	JJS	Degree=Sup	12	amod	_	_
+12	allies	ally	NOUN	NNS	Number=Plur	6	nmod	_	_
+13	and	and	CCONJ	CC	_	18	cc	_	_
+14	,	,	PUNCT	,	_	13	punct	_	_
+15	like	like	ADP	IN	_	16	case	_	_
+16	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obl	_	Entity=(e171--1-agreement:singular,antetype:entity,mention:pronoun,position:non%2Dsubject,split:simple+antecedent,type:anaphoric,type_of_pronoun:personal)
+17	,	,	PUNCT	,	_	16	punct	_	_
+18	served	serve	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
+19	in	in	ADP	IN	_	23	case	_	_
+20	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	_
+21	Soviet	Soviet	ADJ	JJ	Degree=Pos	23	amod	_	_
+22	security	security	NOUN	NN	Number=Sing	23	compound	_	_
+23	service	service	NOUN	NN	Number=Sing	18	obl	_	_
+24	,	,	PUNCT	,	_	26	punct	_	_
+25	the	the	DET	DT	Definite=Def|PronType=Art	26	det	_	_
+26	KGB	KGB	PROPN	NNP	Abbr=Yes|Number=Sing	23	appos	_	_
+27	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = 237
+# text = As chief of staff he was one of the most powerful men in the country .
+1	As	as	ADP	IN	_	2	case	_	_
+2	chief	chief	NOUN	NN	Number=Sing	7	nmod	_	_
+3	of	of	ADP	IN	_	4	case	_	_
+4	staff	staff	NOUN	NN	Number=Sing	2	nmod	_	_
+5	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Entity=(e174--1-agreement:singular,antetype:entity,mention:pronoun,position:subject,split:simple+antecedent,type:anaphoric,type_of_pronoun:personal)
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
+7	one	one	NUM	CD	NumForm=Word|NumType=Card	0	root	_	_
+8	of	of	ADP	IN	_	12	case	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	_
+10	most	most	ADV	RBS	Degree=Sup	11	advmod	_	_
+11	powerful	powerful	ADJ	JJ	Degree=Pos	12	amod	_	_
+12	men	man	NOUN	NNS	Number=Plur	7	nmod	_	_
+13	in	in	ADP	IN	_	15	case	_	_
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	_
+15	country	country	NOUN	NN	Number=Sing	12	nmod	_	_
+16	.	.	PUNCT	.	_	7	punct	_	_
+
+# sent_id = 238
+# text = In a meeting with President Putin shown on state television both men claimed that the chief of staff was stepping down at his own request .
+1	In	in	ADP	IN	_	3	case	_	_
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	meeting	meeting	NOUN	NN	Number=Sing	13	obl	_	_
+4	with	with	ADP	IN	_	5	case	_	_
+5	President	President	PROPN	NNP	Number=Sing	3	nmod	_	Entity=(e171--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+6	Putin	Putin	PROPN	NNP	Number=Sing	5	flat	_	Entity=e171)
+7	shown	show	VERB	VBN	Tense=Past|VerbForm=Part	3	acl	_	_
+8	on	on	ADP	IN	_	10	case	_	_
+9	state	state	NOUN	NN	Number=Sing	10	compound	_	_
+10	television	television	NOUN	NN	Number=Sing	7	obl	_	_
+11	both	both	DET	DT	PronType=Art	12	det	_	_
+12	men	man	NOUN	NNS	Number=Plur	13	nsubj	_	_
+13	claimed	claim	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+14	that	that	SCONJ	IN	_	20	mark	_	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	Entity=(e172--2-anacata:anaphoric,antetype:entity,mention:np,npmod:def%2Darticle,nptype:np,split:simple+antecedent
+16	chief	chief	NOUN	NN	Number=Sing	20	nsubj	_	_
+17	of	of	ADP	IN	_	18	case	_	_
+18	staff	staff	NOUN	NN	Number=Sing	16	nmod	_	Entity=e172)
+19	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	aux	_	_
+20	stepping	step	VERB	VBG	Tense=Pres|VerbForm=Part	13	ccomp	_	_
+21	down	down	ADP	RP	_	20	compound:prt	_	_
+22	at	at	ADP	IN	_	25	case	_	_
+23	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	25	nmod:poss	_	Entity=(e172--1-agreement:singular,antetype:entity,mention:pronoun,position:non%2Dsubject,split:simple+antecedent,type:anaphoric,type_of_pronoun:possessive)
+24	own	own	ADJ	JJ	Degree=Pos	25	amod	_	_
+25	request	request	NOUN	NN	Number=Sing	20	obl	_	_
+26	.	.	PUNCT	.	_	13	punct	_	_
+
+# sent_id = 239
+# text = But despite the smiles for the cameras , few here are convinced - especially now , just before parliamentary elections .
+1	But	but	CCONJ	CC	_	12	cc	_	_
+2	despite	despite	ADP	IN	_	4	case	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	smiles	smile	NOUN	NNS	Number=Plur	12	obl	_	_
+5	for	for	ADP	IN	_	7	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+7	cameras	camera	NOUN	NNS	Number=Plur	4	nmod	_	_
+8	,	,	PUNCT	,	_	4	punct	_	_
+9	few	few	ADJ	JJ	Degree=Pos	12	nsubj:pass	_	_
+10	here	here	ADV	RB	PronType=Dem	9	advmod	_	_
+11	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux:pass	_	_
+12	convinced	convince	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+13	-	-	PUNCT	:	_	15	punct	_	_
+14	especially	especially	ADV	RB	Degree=Pos	15	advmod	_	_
+15	now	now	ADV	RB	_	12	advmod	_	_
+16	,	,	PUNCT	,	_	20	punct	_	_
+17	just	just	ADV	RB	_	20	advmod	_	_
+18	before	before	ADP	IN	_	20	case	_	_
+19	parliamentary	parliamentary	ADJ	JJ	Degree=Pos	20	amod	_	_
+20	elections	election	NOUN	NNS	Number=Plur	12	obl	_	_
+21	.	.	PUNCT	.	_	12	punct	_	_
+
+# sent_id = 240
+# text = So is this the fall-out from some kind of power struggle ?
+1	So	so	ADV	RB	_	5	advmod	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+5	fall-out	fall-out	NOUN	NN	Number=Sing	0	root	_	_
+6	from	from	ADP	IN	_	8	case	_	_
+7	some	some	DET	DT	PronType=Ind	8	det	_	_
+8	kind	kind	NOUN	NN	Number=Sing	5	nmod	_	_
+9	of	of	ADP	IN	_	11	case	_	_
+10	power	power	NOUN	NN	Number=Sing	11	compound	_	_
+11	struggle	struggle	NOUN	NN	Number=Sing	8	nmod	_	_
+12	?	?	PUNCT	.	_	5	punct	_	_
+
+# sent_id = 241
+# text = No-one knows yet .
+1	No-one	no-one	NOUN	NN	Number=Sing	2	nsubj	_	_
+2	knows	know	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	yet	yet	ADV	RB	_	2	advmod	_	_
+4	.	.	PUNCT	.	_	2	punct	_	_
+
+# sent_id = 242
+# text = But the official claim - that a man once touted as a potential president , suddenly wanted to run Russia 's environmental policy - has been met with great scepticism .
+1	But	but	CCONJ	CC	_	27	cc	_	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+3	official	official	ADJ	JJ	Degree=Pos	4	amod	_	_
+4	claim	claim	NOUN	NN	Number=Sing	27	nsubj:pass	_	_
+5	-	-	PUNCT	:	_	17	punct	_	_
+6	that	that	SCONJ	IN	_	17	mark	_	_
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	_
+8	man	man	NOUN	NN	Number=Sing	17	nsubj	_	_
+9	once	once	ADV	RB	NumType=Mult	10	advmod	_	_
+10	touted	tout	VERB	VBN	Tense=Past|VerbForm=Part	8	acl	_	_
+11	as	as	ADP	IN	_	14	case	_	_
+12	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	_
+13	potential	potential	ADJ	JJ	Degree=Pos	14	amod	_	_
+14	president	president	NOUN	NN	Number=Sing	10	obl	_	_
+15	,	,	PUNCT	,	_	8	punct	_	_
+16	suddenly	suddenly	ADV	RB	Degree=Pos	17	advmod	_	_
+17	wanted	want	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl	_	_
+18	to	to	PART	TO	_	19	mark	_	_
+19	run	run	VERB	VB	VerbForm=Inf	17	xcomp	_	_
+20	Russia	Russia	PROPN	NNP	Number=Sing	23	nmod:poss	_	_
+21	's	's	PART	POS	_	20	case	_	_
+22	environmental	environmental	ADJ	JJ	Degree=Pos	23	amod	_	_
+23	policy	policy	NOUN	NN	Number=Sing	19	obj	_	_
+24	-	-	PUNCT	:	_	4	punct	_	_
+25	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	aux	_	_
+26	been	be	AUX	VBN	Tense=Past|VerbForm=Part	27	aux:pass	_	_
+27	met	meet	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+28	with	with	ADP	IN	_	30	case	_	_
+29	great	great	ADJ	JJ	Degree=Pos	30	amod	_	_
+30	scepticism	scepticism	NOUN	NN	Number=Sing	27	obl	_	_
+31	.	.	PUNCT	.	_	27	punct	_	_
+
+# sent_id = 243
+# text = In remarks to Mr Putin , quoted on the Kremlin website , Mr Ivanov said `` it 's true that in early 2012 I asked you , in a conversation , to entrust me with this very complicated post , even - you could say - troublesome post , for four years .
+1	In	in	ADP	IN	_	2	case	_	_
+2	remarks	remark	NOUN	NNS	Number=Plur	15	obl	_	_
+3	to	to	ADP	IN	_	4	case	_	_
+4	Mr	mister	PROPN	NNP	Number=Sing	2	nmod	_	Entity=(e171--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+5	Putin	Putin	PROPN	NNP	Number=Sing	4	flat	_	Entity=e171)
+6	,	,	PUNCT	,	_	7	punct	_	_
+7	quoted	quote	VERB	VBN	Tense=Past|VerbForm=Part	4	acl	_	_
+8	on	on	ADP	IN	_	11	case	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	_
+10	Kremlin	Kremlin	PROPN	NNP	Number=Sing	11	compound	_	_
+11	website	website	NOUN	NN	Number=Sing	7	obl	_	_
+12	,	,	PUNCT	,	_	2	punct	_	_
+13	Mr	mister	PROPN	NNP	Number=Sing	15	nsubj	_	Entity=(e172--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+14	Ivanov	Ivanov	PROPN	NNP	Number=Sing	13	flat	_	Entity=e172)
+15	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+16	``	''	PUNCT	``	_	19	punct	_	_
+17	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	expl	_	_
+18	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+19	true	true	ADJ	JJ	Degree=Pos	15	ccomp	_	_
+20	that	that	SCONJ	IN	_	25	mark	_	_
+21	in	in	ADP	IN	_	23	case	_	_
+22	early	early	ADJ	JJ	Degree=Pos	23	amod	_	_
+23	2012	2012	NUM	CD	NumForm=Digit|NumType=Card	25	obl	_	_
+24	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	25	nsubj	_	_
+25	asked	ask	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	19	csubj	_	_
+26	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	25	obj	_	_
+27	,	,	PUNCT	,	_	30	punct	_	_
+28	in	in	ADP	IN	_	30	case	_	_
+29	a	a	DET	DT	Definite=Ind|PronType=Art	30	det	_	_
+30	conversation	conversation	NOUN	NN	Number=Sing	25	obl	_	_
+31	,	,	PUNCT	,	_	33	punct	_	_
+32	to	to	PART	TO	_	33	mark	_	_
+33	entrust	entrust	VERB	VB	VerbForm=Inf	25	xcomp	_	_
+34	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	33	obj	_	_
+35	with	with	ADP	IN	_	39	case	_	_
+36	this	this	DET	DT	Number=Sing|PronType=Dem	39	det	_	_
+37	very	very	ADV	RB	_	38	advmod	_	_
+38	complicated	complicated	ADJ	JJ	Degree=Pos	39	amod	_	_
+39	post	post	NOUN	NN	Number=Sing	33	obl	_	_
+40	,	,	PUNCT	,	_	41	punct	_	_
+41	even	even	ADV	RB	_	48	advmod	_	_
+42	-	-	PUNCT	:	_	41	punct	_	_
+43	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	45	nsubj	_	_
+44	could	could	AUX	MD	VerbForm=Fin	45	aux	_	_
+45	say	say	VERB	VB	VerbForm=Inf	48	parataxis	_	_
+46	-	-	PUNCT	:	_	45	punct	_	_
+47	troublesome	troublesome	ADJ	JJ	Degree=Pos	48	amod	_	_
+48	post	post	NOUN	NN	Number=Sing	33	obj	_	_
+49	,	,	PUNCT	,	_	52	punct	_	_
+50	for	for	ADP	IN	_	52	case	_	_
+51	four	four	NUM	CD	NumForm=Word|NumType=Card	52	nummod	_	_
+52	years	year	NOUN	NNS	Number=Plur	33	obl	_	_
+53	.	.	PUNCT	.	_	15	punct	_	_
+
+# sent_id = 244
+# text = Well , it turns out that I 've been presidential chief of staff for four years and eight months .
+1	Well	well	INTJ	UH	_	4	discourse	_	_
+2	,	,	PUNCT	,	_	1	punct	_	_
+3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Entity=(e175--1-mention:pronoun,type:pleonastic)
+4	turns	turn	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	out	out	ADP	RP	_	4	compound:prt	_	_
+6	that	that	SCONJ	IN	_	11	mark	_	_
+7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+8	've	have	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	_
+9	been	be	AUX	VBN	Tense=Past|VerbForm=Part	11	cop	_	_
+10	presidential	presidential	ADJ	JJ	Degree=Pos	11	amod	_	_
+11	chief	chief	NOUN	NN	Number=Sing	4	ccomp	_	_
+12	of	of	ADP	IN	_	13	case	_	_
+13	staff	staff	NOUN	NN	Number=Sing	11	nmod	_	_
+14	for	for	ADP	IN	_	16	case	_	_
+15	four	four	NUM	CD	NumForm=Word|NumType=Card	16	nummod	_	_
+16	years	year	NOUN	NNS	Number=Plur	11	nmod	_	_
+17	and	and	CCONJ	CC	_	19	cc	_	_
+18	eight	eight	NUM	CD	NumForm=Word|NumType=Card	19	nummod	_	_
+19	months	month	NOUN	NNS	Number=Plur	16	conj	_	_
+20	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = 245
+# text = Mr Ivanov took up the post in December 2011 .
+1	Mr	mister	PROPN	NNP	Number=Sing	3	nsubj	_	Entity=(e172--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+2	Ivanov	Ivanov	PROPN	NNP	Number=Sing	1	flat	_	Entity=e172)
+3	took	take	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	up	up	ADP	RP	_	3	compound:prt	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+6	post	post	NOUN	NN	Number=Sing	3	obj	_	_
+7	in	in	ADP	IN	_	8	case	_	_
+8	December	December	PROPN	NNP	Number=Sing	3	obl	_	_
+9	2011	2011	NUM	CD	NumForm=Digit|NumType=Card	8	nmod:tmod	_	_
+10	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = 246
+# text = He served previously as a deputy prime minister and defence minister .
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Entity=(e172--1-agreement:singular,antetype:entity,mention:pronoun,position:subject,split:simple+antecedent,type:anaphoric,type_of_pronoun:personal)
+2	served	serve	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	previously	previously	ADV	RB	Degree=Pos	2	advmod	_	_
+4	as	as	ADP	IN	_	8	case	_	_
+5	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	_
+6	deputy	deputy	NOUN	NN	Number=Sing	8	compound	_	_
+7	prime	prime	ADJ	JJ	Degree=Pos	8	amod	_	_
+8	minister	minister	NOUN	NN	Number=Sing	2	obl	_	_
+9	and	and	CCONJ	CC	_	11	cc	_	_
+10	defence	defence	NOUN	NN	Number=Sing	11	compound	_	_
+11	minister	minister	NOUN	NN	Number=Sing	8	conj	_	_
+12	.	.	PUNCT	.	_	2	punct	_	_
+
+# sent_id = 247
+# text = He is a member of the Russian Security Council and a former member of the KGB state security service , like Mr Putin .
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Entity=(e172--1-agreement:singular,antetype:entity,mention:pronoun,position:subject,split:simple+antecedent,type:anaphoric,type_of_pronoun:personal)
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_
+4	member	member	NOUN	NN	Number=Sing	0	root	_	_
+5	of	of	ADP	IN	_	9	case	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	_
+7	Russian	Russian	ADJ	NNP	Degree=Pos|Number=Sing	9	amod	_	_
+8	Security	Security	PROPN	NNP	Number=Sing	9	compound	_	_
+9	Council	Council	PROPN	NNP	Number=Sing	4	nmod	_	_
+10	and	and	CCONJ	CC	_	13	cc	_	_
+11	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	_
+12	former	former	ADJ	JJ	Degree=Pos	13	amod	_	_
+13	member	member	NOUN	NN	Number=Sing	4	conj	_	_
+14	of	of	ADP	IN	_	19	case	_	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	_
+16	KGB	KGB	PROPN	NNP	Abbr=Yes|Number=Sing	19	compound	_	_
+17	state	state	NOUN	NN	Number=Sing	18	compound	_	_
+18	security	security	NOUN	NN	Number=Sing	19	compound	_	_
+19	service	service	NOUN	NN	Number=Sing	13	nmod	_	_
+20	,	,	PUNCT	,	_	22	punct	_	_
+21	like	like	ADP	IN	_	22	case	_	_
+22	Mr	mister	PROPN	NNP	Abbr=Yes|Number=Sing	13	nmod	_	Entity=(e171--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+23	Putin	Putin	PROPN	NNP	Number=Sing	22	flat	_	Entity=e171)
+24	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = 248
+# text = In the late 1990s , when Mr Putin was head of the Federal Security Service ( FSB ) , which replaced the KGB , Mr Ivanov was appointed as his deputy .
+1	In	in	ADP	IN	_	4	case	_	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+3	late	late	ADJ	JJ	Degree=Pos	4	amod	_	_
+4	1990s	1990	NOUN	NNS	Number=Plur	28	obl	_	_
+5	,	,	PUNCT	,	_	4	punct	_	_
+6	when	when	SCONJ	WRB	PronType=Int	10	mark	_	_
+7	Mr	mister	PROPN	NNP	Number=Sing	10	nsubj	_	Entity=(e171--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+8	Putin	Putin	PROPN	NNP	Number=Sing	7	flat	_	Entity=e171)
+9	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	_
+10	head	head	NOUN	NN	Number=Sing	28	advcl	_	_
+11	of	of	ADP	IN	_	15	case	_	_
+12	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	_
+13	Federal	Federal	ADJ	NNP	Degree=Pos|Number=Sing	15	amod	_	_
+14	Security	Security	PROPN	NNP	Number=Sing	15	compound	_	_
+15	Service	Service	PROPN	NNP	Number=Sing	10	nmod	_	_
+16	(	(	PUNCT	-LRB-	_	17	punct	_	_
+17	FSB	FSB	PROPN	NNP	Abbr=Yes|Number=Sing	15	appos	_	_
+18	)	)	PUNCT	-RRB-	_	17	punct	_	_
+19	,	,	PUNCT	,	_	21	punct	_	_
+20	which	which	PRON	WDT	PronType=Rel	21	nsubj	_	_
+21	replaced	replace	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	acl:relcl	_	_
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	_
+23	KGB	KGB	PROPN	NNP	Abbr=Yes|Number=Sing	21	obj	_	_
+24	,	,	PUNCT	,	_	10	punct	_	_
+25	Mr	mister	PROPN	NNP	Number=Sing	28	nsubj:pass	_	Entity=(e172--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+26	Ivanov	Ivanov	PROPN	NNP	Number=Sing	25	flat	_	Entity=e172)
+27	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	aux:pass	_	_
+28	appointed	appoint	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+29	as	as	ADP	IN	_	31	case	_	_
+30	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	31	nmod:poss	_	Entity=(e171--1-agreement:singular,antetype:entity,mention:pronoun,position:subject,split:simple+antecedent,type:anaphoric,type_of_pronoun:possessive)
+31	deputy	deputy	NOUN	NN	Number=Sing	28	obl	_	_
+32	.	.	PUNCT	.	_	28	punct	_	_
+
+# sent_id = 249
+# text = When Mr Putin came to power , he named Mr Ivanov as one of the five people he trusted most .
+1	When	when	SCONJ	WRB	PronType=Int	4	mark	_	_
+2	Mr	mister	PROPN	NNP	Number=Sing	4	nsubj	_	Entity=(e171--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+3	Putin	Putin	PROPN	NNP	Number=Sing	2	flat	_	Entity=e171)
+4	came	come	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	advcl	_	_
+5	to	to	ADP	IN	_	6	case	_	_
+6	power	power	NOUN	NN	Number=Sing	4	obl	_	_
+7	,	,	PUNCT	,	_	4	punct	_	_
+8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Entity=(e171--1-agreement:singular,antetype:entity,mention:pronoun,position:subject,split:simple+antecedent,type:anaphoric,type_of_pronoun:personal)
+9	named	name	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	Mr	mister	NOUN	NNP	Number=Sing	9	obj	_	Entity=(e172--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+11	Ivanov	Ivanov	PROPN	NNP	Number=Sing	10	flat	_	Entity=e172)
+12	as	as	ADP	IN	_	13	case	_	_
+13	one	one	NUM	CD	NumForm=Word|NumType=Card	9	obl	_	_
+14	of	of	ADP	IN	_	17	case	_	_
+15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	_
+16	five	five	NUM	CD	NumForm=Word|NumType=Card	17	nummod	_	_
+17	people	person	NOUN	NNS	Number=Plur	13	nmod	_	_
+18	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	Entity=(e171--1-agreement:singular,antetype:entity,mention:pronoun,position:subject,split:simple+antecedent,type:anaphoric,type_of_pronoun:personal)
+19	trusted	trust	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	acl:relcl	_	_
+20	most	most	ADV	RBS	Degree=Sup	19	advmod	_	_
+21	.	.	PUNCT	.	_	9	punct	_	_
+
+# sent_id = 250
+# text = It was once thought that Mr Ivanov might become president of Russia after Mr Putin 's second term , as a third term for Mr Putin would have been unconstitutional .
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
+3	once	once	ADV	RB	NumType=Mult	4	advmod	_	_
+4	thought	think	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+5	that	that	SCONJ	IN	_	9	mark	_	_
+6	Mr	mister	NOUN	NN	Number=Sing	9	nsubj	_	Entity=(e172--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+7	Ivanov	Ivanov	PROPN	NNP	Number=Sing	6	flat	_	Entity=e172)
+8	might	might	AUX	MD	Number=Sing|Person=3|VerbForm=Fin	9	aux	_	_
+9	become	become	VERB	VB	VerbForm=Inf	4	csubj:pass	_	_
+10	president	president	NOUN	NN	Number=Sing	9	xcomp	_	_
+11	of	of	ADP	IN	_	12	case	_	_
+12	Russia	Russia	PROPN	NNP	Number=Sing	10	nmod	_	_
+13	after	after	ADP	IN	_	18	case	_	_
+14	Mr	mister	PROPN	NNP	Number=Sing	18	nmod:poss	_	Entity=(e171--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+15	Putin	Putin	PROPN	NNP	Number=Sing	14	flat	_	Entity=e171)
+16	's	's	PART	POS	_	14	case	_	_
+17	second	second	ADJ	JJ	Degree=Pos|NumType=Ord	18	amod	_	_
+18	term	term	NOUN	NN	Number=Sing	9	obl	_	_
+19	,	,	PUNCT	,	_	30	punct	_	_
+20	as	as	SCONJ	IN	_	30	mark	_	_
+21	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	_
+22	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	23	amod	_	_
+23	term	term	NOUN	NN	Number=Sing	30	nsubj	_	_
+24	for	for	ADP	IN	_	25	case	_	_
+25	Mr	mister	NOUN	NN	Number=Sing	23	nmod	_	Entity=(e171--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+26	Putin	Putin	PROPN	NNP	Number=Sing	25	flat	_	Entity=e171)
+27	would	would	AUX	MD	VerbForm=Fin	30	aux	_	_
+28	have	have	AUX	VB	VerbForm=Inf	30	aux	_	_
+29	been	be	AUX	VBN	Tense=Past|VerbForm=Part	30	cop	_	_
+30	unconstitutional	unconstitutional	ADJ	JJ	Degree=Pos|Polarity=Neg	9	advcl	_	_
+31	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = 251
+# text = But that post was taken by another close Putin ally , Dmitry Medvedev .
+1	But	but	CCONJ	CC	_	5	cc	_	_
+2	that	that	DET	DT	Number=Sing|PronType=Dem	3	det	_	_
+3	post	post	NOUN	NN	Number=Sing	5	nsubj:pass	_	_
+4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
+5	taken	take	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+6	by	by	ADP	IN	_	10	case	_	_
+7	another	another	DET	DT	PronType=Art	10	det	_	_
+8	close	close	ADJ	JJ	Degree=Pos	10	amod	_	_
+9	Putin	Putin	PROPN	NNP	Number=Sing	10	compound	_	Entity=(e171--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent)
+10	ally	ally	NOUN	NN	Number=Sing	5	obl:agent	_	_
+11	,	,	PUNCT	,	_	12	punct	_	_
+12	Dmitry	Dmitry	PROPN	NNP	Number=Sing	10	appos	_	_
+13	Medvedev	Medvedev	PROPN	NNP	Number=Sing	12	flat	_	_
+14	.	.	PUNCT	.	_	5	punct	_	_
+
+# sent_id = 252
+# text = Mr Putin became prime minister , before returning to the presidency just three-and-a-half years later .
+1	Mr	mister	PROPN	NNP	Number=Sing	3	nsubj	_	Entity=(e171--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+2	Putin	Putin	PROPN	NNP	Number=Sing	1	flat	_	Entity=e171)
+3	became	become	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	prime	prime	ADJ	JJ	Degree=Pos	5	amod	_	_
+5	minister	minister	NOUN	NN	Number=Sing	3	xcomp	_	_
+6	,	,	PUNCT	,	_	8	punct	_	_
+7	before	before	SCONJ	IN	_	8	mark	_	_
+8	returning	return	VERB	VBG	VerbForm=Ger	3	advcl	_	_
+9	to	to	ADP	IN	_	11	case	_	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	_
+11	presidency	presidency	NOUN	NN	Number=Sing	8	obl	_	_
+12	just	just	ADV	RB	_	13	advmod	_	_
+13	three-and-a-half	three-and-a-half	ADJ	JJ	Degree=Pos	14	amod	_	_
+14	years	year	NOUN	NNS	Number=Plur	15	obl:npmod	_	_
+15	later	late	ADV	RBR	Degree=Cmp	8	advmod	_	_
+16	.	.	PUNCT	.	_	3	punct	_	_
+
+# newdoc id = input_data/ParCorFull-1.0/news/EN/Basedata/24_words.xml
+# global.Entity = eid-etype-head-other
+# sent_id = 509
+# text = Junior doctors set to mount further strikes after rejecting Jeremy Hunt 's proposal
+1	Junior	junior	ADJ	JJ	Degree=Pos	2	amod	_	_
+2	doctors	doctor	NOUN	NNS	Number=Plur	3	nsubj	_	_
+3	set	set	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	to	to	PART	TO	_	5	mark	_	_
+5	mount	mount	VERB	VB	VerbForm=Inf	3	xcomp	_	_
+6	further	further	ADJ	JJR	Degree=Cmp	7	amod	_	_
+7	strikes	strike	NOUN	NNS	Number=Plur	5	obj	_	_
+8	after	after	SCONJ	IN	_	9	mark	_	_
+9	rejecting	reject	VERB	VBG	VerbForm=Ger	5	advcl	_	_
+10	Jeremy	Jeremy	PROPN	NNP	Number=Sing	13	nmod:poss	_	Entity=(e176--4-mention:np,nptype:antecedent(e177--1-mention:np,nptype:antecedent
+11	Hunt	Hunt	PROPN	NNP	Number=Sing	10	flat	_	Entity=e177)
+12	's	's	PART	POS	_	10	case	_	_
+13	proposal	proposal	NOUN	NN	Number=Sing	9	obj	_	Entity=e176)
+
+# sent_id = 510
+# text = Ministers had hoped to end the dispute over the changes by agreeing to a reformed contract with British Medical Association officials , but 58 per cent of the 37,000 junior doctors who took part in a ballot had rejected it .
+1	Ministers	minister	NOUN	NNS	Number=Plur	3	nsubj	_	_
+2	had	have	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	_
+3	hoped	hope	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+4	to	to	PART	TO	_	5	mark	_	_
+5	end	end	VERB	VB	VerbForm=Inf	3	xcomp	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+7	dispute	dispute	NOUN	NN	Number=Sing	5	obj	_	_
+8	over	over	ADP	IN	_	10	case	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_
+10	changes	change	NOUN	NNS	Number=Plur	7	nmod	_	_
+11	by	by	SCONJ	IN	_	12	mark	_	_
+12	agreeing	agree	VERB	VBG	VerbForm=Ger	5	advcl	_	_
+13	to	to	ADP	IN	_	16	case	_	_
+14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	_
+15	reformed	reform	VERB	VBN	Tense=Past|VerbForm=Part	16	amod	_	_
+16	contract	contract	NOUN	NN	Number=Sing	12	obl	_	_
+17	with	with	ADP	IN	_	21	case	_	_
+18	British	British	ADJ	NNP	Degree=Pos|Number=Sing	20	amod	_	_
+19	Medical	Medical	ADJ	NNP	Degree=Pos|Number=Sing	20	amod	_	_
+20	Association	Association	PROPN	NNP	Number=Sing	21	compound	_	_
+21	officials	official	NOUN	NNS	Number=Plur	16	nmod	_	_
+22	,	,	PUNCT	,	_	39	punct	_	_
+23	but	but	CCONJ	CC	_	39	cc	_	_
+24	58	58	NUM	CD	NumForm=Digit|NumType=Card	26	nummod	_	_
+25	per	per	NOUN	NN	Number=Sing	26	compound	_	_
+26	cent	cent	NOUN	NN	Number=Sing	39	nsubj	_	_
+27	of	of	ADP	IN	_	31	case	_	_
+28	the	the	DET	DT	Definite=Def|PronType=Art	31	det	_	_
+29	37,000	37000	NUM	CD	NumForm=Digit|NumType=Card	31	nummod	_	_
+30	junior	junior	ADJ	JJ	Degree=Pos	31	amod	_	Entity=(e178--2-mention:np,nptype:antecedent
+31	doctors	doctor	NOUN	NNS	Number=Plur	26	nmod	_	Entity=e178)
+32	who	who	PRON	WP	PronType=Rel	33	nsubj	_	Entity=(e178--1-agreement:plural,antetype:entity,mention:pronoun,position:subject,split:simple+antecedent,type:anaphoric,type_of_pronoun:relative)
+33	took	take	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	31	acl:relcl	_	_
+34	part	part	NOUN	NN	Number=Sing	33	obj	_	_
+35	in	in	ADP	IN	_	37	case	_	_
+36	a	a	DET	DT	Definite=Ind|PronType=Art	37	det	_	_
+37	ballot	ballot	NOUN	NN	Number=Sing	33	obl	_	_
+38	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	39	aux	_	_
+39	rejected	reject	VERB	VBN	Tense=Past|VerbForm=Part	3	conj	_	_
+40	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	39	obj	_	Entity=(e176--1-agreement:singular,antetype:entity,mention:pronoun,position:non%2Dsubject,split:simple+antecedent,type:anaphoric,type_of_pronoun:personal)
+41	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = 511
+# text = In July , Mr Hunt revealed plans to impose the contract saying the NHS was in `` no man 's land '' and any further delay would be damaging for staff and patients .
+1	In	in	ADP	IN	_	2	case	_	_
+2	July	July	PROPN	NNP	Number=Sing	6	obl	_	_
+3	,	,	PUNCT	,	_	2	punct	_	_
+4	Mr	mister	PROPN	NNP	Number=Sing	6	nsubj	_	Entity=(e177--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+5	Hunt	Hunt	PROPN	NNP	Number=Sing	4	flat	_	Entity=e177)
+6	revealed	reveal	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	plans	plan	NOUN	NNS	Number=Plur	6	obj	_	_
+8	to	to	PART	TO	_	9	mark	_	_
+9	impose	impose	VERB	VB	VerbForm=Inf	7	acl	_	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	_
+11	contract	contract	NOUN	NN	Number=Sing	9	obj	_	_
+12	saying	say	VERB	VBG	VerbForm=Ger	9	advcl	_	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	_
+14	NHS	NHS	PROPN	NNP	Abbr=Yes|Number=Sing	21	nsubj	_	_
+15	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	cop	_	_
+16	in	in	ADP	IN	_	21	case	_	_
+17	``	''	PUNCT	``	_	21	punct	_	_
+18	no	no	DET	DT	Polarity=Neg|PronType=Art	19	det	_	_
+19	man	man	NOUN	NN	Number=Sing	21	nmod:poss	_	_
+20	's	's	PART	POS	_	19	case	_	_
+21	land	land	NOUN	NN	Number=Sing	12	ccomp	_	_
+22	''	''	PUNCT	''	_	21	punct	_	_
+23	and	and	CCONJ	CC	_	29	cc	_	_
+24	any	any	DET	DT	PronType=Ind	26	det	_	_
+25	further	further	ADJ	JJR	Degree=Cmp	26	amod	_	_
+26	delay	delay	NOUN	NN	Number=Sing	29	nsubj	_	_
+27	would	would	AUX	MD	VerbForm=Fin	29	aux	_	_
+28	be	be	AUX	VB	VerbForm=Inf	29	cop	_	_
+29	damaging	damage	VERB	VBG	Tense=Pres|VerbForm=Part	21	conj	_	_
+30	for	for	ADP	IN	_	31	case	_	_
+31	staff	staff	NOUN	NNS	Number=Plur	29	obl	_	_
+32	and	and	CCONJ	CC	_	33	cc	_	_
+33	patients	patient	NOUN	NNS	Number=Plur	31	conj	_	_
+34	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = 512
+# text = The first junior doctors are moved onto the new contract , which includes changes to overnight and weekend working practices to improve care at unsociable hours .
+1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+2	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	4	amod	_	_
+3	junior	junior	ADJ	JJ	Degree=Pos	4	amod	_	_
+4	doctors	doctor	NOUN	NNS	Number=Plur	6	nsubj:pass	_	_
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
+6	moved	move	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+7	onto	onto	ADP	IN	_	10	case	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	Entity=(e179--3-mention:np,nptype:antecedent
+9	new	new	ADJ	JJ	Degree=Pos	10	amod	_	_
+10	contract	contract	NOUN	NN	Number=Sing	6	obl	_	Entity=e179)
+11	,	,	PUNCT	,	_	13	punct	_	_
+12	which	which	PRON	WDT	PronType=Rel	13	nsubj	_	Entity=(e179--1-agreement:singular,antetype:entity,mention:pronoun,position:subject,split:simple+antecedent,type:anaphoric,type_of_pronoun:relative)
+13	includes	include	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
+14	changes	change	NOUN	NNS	Number=Plur	13	obj	_	_
+15	to	to	ADP	IN	_	20	case	_	_
+16	overnight	overnight	ADJ	JJ	Degree=Pos	20	amod	_	_
+17	and	and	CCONJ	CC	_	18	cc	_	_
+18	weekend	weekend	NOUN	NN	Number=Sing	16	conj	_	_
+19	working	working	NOUN	NN	Number=Sing	20	compound	_	_
+20	practices	practice	NOUN	NNS	Number=Plur	14	nmod	_	_
+21	to	to	PART	TO	_	22	mark	_	_
+22	improve	improve	VERB	VB	VerbForm=Inf	13	advcl	_	_
+23	care	care	NOUN	NN	Number=Sing	22	obj	_	_
+24	at	at	ADP	IN	_	26	case	_	_
+25	unsociable	unsociable	ADJ	JJ	Degree=Pos|Polarity=Neg	26	amod	_	_
+26	hours	hour	NOUN	NNS	Number=Plur	22	obl	_	_
+27	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = 513
+# text = Dr Ellen McCourt , the BMA 's junior doctors '' committee chair , said in a statement last night : `` Junior doctors still have serious concerns about the proposed contract , particularly that it will fuel the current workforce crisis , and that it fails to treat all doctors fairly . ''
+1	Dr	Dr	PROPN	NNP	Number=Sing	14	nsubj	_	Entity=(e180--1-mention:np,nptype:antecedent
+2	Ellen	Ellen	PROPN	NNP	Number=Sing	1	flat	_	_
+3	McCourt	McCourt	PROPN	NNP	Number=Sing	1	flat	_	Entity=e180)
+4	,	,	PUNCT	,	_	12	punct	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	Entity=(e180--8-mention:np,nptype:apposition,sub_apposition:none
+6	BMA	BMA	PROPN	NNP	Abbr=Yes|Number=Sing	12	nmod:poss	_	_
+7	's	's	PART	POS	_	6	case	_	_
+8	junior	junior	ADJ	JJ	Degree=Pos	9	amod	_	_
+9	doctors	doctor	NOUN	NNS	Number=Plur	12	nmod:poss	_	_
+10	''	''s	PART	POS	_	6	case	_	_
+11	committee	committee	NOUN	NN	Number=Sing	12	compound	_	_
+12	chair	chair	NOUN	NN	Number=Sing	1	appos	_	Entity=e180)
+13	,	,	PUNCT	,	_	1	punct	_	_
+14	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+15	in	in	ADP	IN	_	17	case	_	_
+16	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	_
+17	statement	statement	NOUN	NN	Number=Sing	14	obl	_	_
+18	last	last	ADJ	JJ	Degree=Pos	19	amod	_	_
+19	night	night	NOUN	NN	Number=Sing	14	obl:tmod	_	_
+20	:	:	PUNCT	:	_	25	punct	_	_
+21	``	''	PUNCT	``	_	25	punct	_	_
+22	Junior	junior	ADJ	JJ	Degree=Pos	23	amod	_	_
+23	doctors	doctor	NOUN	NNS	Number=Plur	25	nsubj	_	_
+24	still	still	ADV	RB	Degree=Pos	25	advmod	_	_
+25	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	_
+26	serious	serious	ADJ	JJ	Degree=Pos	27	amod	_	_
+27	concerns	concern	NOUN	NNS	Number=Plur	25	obj	_	_
+28	about	about	ADP	IN	_	31	case	_	_
+29	the	the	DET	DT	Definite=Def|PronType=Art	31	det	_	Entity=(e181--3-mention:np,nptype:antecedent
+30	proposed	propose	VERB	VBN	Tense=Past|VerbForm=Part	31	amod	_	_
+31	contract	contract	NOUN	NN	Number=Sing	27	nmod	_	Entity=e181)
+32	,	,	PUNCT	,	_	37	punct	_	_
+33	particularly	particularly	ADV	RB	Degree=Pos	37	advmod	_	_
+34	that	that	SCONJ	IN	_	37	mark	_	_
+35	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	37	nsubj	_	Entity=(e181--1-agreement:singular,antetype:entity,mention:pronoun,position:subject,split:simple+antecedent,type:anaphoric,type_of_pronoun:personal)
+36	will	will	AUX	MD	VerbForm=Fin	37	aux	_	_
+37	fuel	fuel	VERB	VB	VerbForm=Inf	25	advcl	_	_
+38	the	the	DET	DT	Definite=Def|PronType=Art	41	det	_	_
+39	current	current	ADJ	JJ	Degree=Pos	41	amod	_	_
+40	workforce	workforce	NOUN	NN	Number=Sing	41	compound	_	_
+41	crisis	crisis	NOUN	NN	Number=Sing	37	obj	_	_
+42	,	,	PUNCT	,	_	46	punct	_	_
+43	and	and	CCONJ	CC	_	46	cc	_	_
+44	that	that	SCONJ	IN	_	46	mark	_	_
+45	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	46	nsubj	_	Entity=(e181--1-agreement:singular,antetype:entity,mention:pronoun,position:subject,split:simple+antecedent,type:anaphoric,type_of_pronoun:personal)
+46	fails	fail	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	conj	_	_
+47	to	to	PART	TO	_	48	mark	_	_
+48	treat	treat	VERB	VB	VerbForm=Inf	46	xcomp	_	_
+49	all	all	DET	DT	PronType=Tot	50	det	_	_
+50	doctors	doctor	NOUN	NNS	Number=Plur	48	obj	_	_
+51	fairly	fairly	ADV	RB	Degree=Pos	48	advmod	_	_
+52	.	.	PUNCT	.	_	14	punct	_	_
+53	''	''	PUNCT	''	_	14	punct	_	_
+
+# sent_id = 514
+# text = With just eight weeks before the first group of doctors are moved onto the new contract , progress needs to be made and time is running out .
+1	With	with	ADP	IN	_	4	case	_	_
+2	just	just	ADV	RB	_	3	advmod	_	_
+3	eight	eight	NUM	CD	NumForm=Word|NumType=Card	4	nummod	_	_
+4	weeks	week	NOUN	NNS	Number=Plur	19	obl	_	_
+5	before	before	SCONJ	IN	_	12	mark	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+7	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	8	amod	_	_
+8	group	group	NOUN	NN	Number=Sing	12	nsubj:pass	_	_
+9	of	of	ADP	IN	_	10	case	_	_
+10	doctors	doctor	NOUN	NNS	Number=Plur	8	nmod	_	_
+11	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux:pass	_	_
+12	moved	move	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
+13	onto	onto	ADP	IN	_	16	case	_	_
+14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	_
+15	new	new	ADJ	JJ	Degree=Pos	16	amod	_	_
+16	contract	contract	NOUN	NN	Number=Sing	12	obl	_	_
+17	,	,	PUNCT	,	_	12	punct	_	_
+18	progress	progress	NOUN	NN	Number=Sing	19	nsubj	_	_
+19	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+20	to	to	PART	TO	_	22	mark	_	_
+21	be	be	AUX	VB	VerbForm=Inf	22	aux:pass	_	_
+22	made	make	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	19	xcomp	_	_
+23	and	and	CCONJ	CC	_	26	cc	_	_
+24	time	time	NOUN	NN	Number=Sing	26	nsubj	_	_
+25	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	aux	_	_
+26	running	run	VERB	VBG	Tense=Pres|VerbForm=Part	19	conj	_	_
+27	out	out	ADP	RP	_	26	compound:prt	_	_
+28	.	.	PUNCT	.	_	19	punct	_	_
+
+# sent_id = 515
+# text = Efforts by the BMA to resolve the dispute through talks have been met with an unwillingness to engage and , at times , deafening silence from the government .
+1	Efforts	effort	NOUN	NNS	Number=Plur	13	nsubj:pass	_	Entity=(e182--13-clausetype:antecedent,mention:clause
+2	by	by	ADP	IN	_	4	case	_	_
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	BMA	BMA	PROPN	NNP	Abbr=Yes|Number=Sing	1	nmod	_	_
+5	to	to	PART	TO	_	6	mark	_	_
+6	resolve	resolve	VERB	VB	VerbForm=Inf	1	acl	_	_
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+8	dispute	dispute	NOUN	NN	Number=Sing	6	obj	_	_
+9	through	through	ADP	IN	_	10	case	_	_
+10	talks	talk	NOUN	NNS	Number=Plur	6	obl	_	_
+11	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+12	been	be	AUX	VBN	Tense=Past|VerbForm=Part	13	aux:pass	_	_
+13	met	meet	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+14	with	with	ADP	IN	_	16	case	_	_
+15	an	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	_
+16	unwillingness	unwillingness	NOUN	NN	Number=Sing	13	obl	_	_
+17	to	to	PART	TO	_	18	mark	_	_
+18	engage	engage	VERB	VB	VerbForm=Inf	16	acl	_	_
+19	and	and	CCONJ	CC	_	25	cc	_	_
+20	,	,	PUNCT	,	_	19	punct	_	_
+21	at	at	ADP	IN	_	22	case	_	_
+22	times	time	NOUN	NNS	Number=Plur	25	nmod	_	_
+23	,	,	PUNCT	,	_	22	punct	_	_
+24	deafening	deafen	VERB	VBG	VerbForm=Ger	25	amod	_	_
+25	silence	silence	NOUN	NN	Number=Sing	18	conj	_	_
+26	from	from	ADP	IN	_	28	case	_	_
+27	the	the	DET	DT	Definite=Def|PronType=Art	28	det	_	_
+28	government	government	NOUN	NN	Number=Sing	25	nmod	_	Entity=e182)
+29	.	.	PUNCT	.	_	13	punct	_	_
+
+# sent_id = 516
+# text = This is despite a promise from Jeremy Hunt just last month that his door is always open .
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	Entity=(e182--1-agreement:none,antetype:event,mention:pronoun,position:subject,split:simple+antecedent,type:anaphoric,type_of_pronoun:demonstrative)
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	despite	despite	ADP	IN	_	5	case	_	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	_
+5	promise	promise	NOUN	NN	Number=Sing	0	root	_	_
+6	from	from	ADP	IN	_	7	case	_	_
+7	Jeremy	Jeremy	PROPN	NNP	Number=Sing	5	nmod	_	Entity=(e177--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+8	Hunt	Hunt	PROPN	NNP	Number=Sing	7	flat	_	Entity=e177)
+9	just	just	ADV	RB	_	11	advmod	_	_
+10	last	last	ADJ	JJ	Degree=Pos	11	amod	_	_
+11	month	month	NOUN	NN	Number=Sing	5	nmod:tmod	_	_
+12	that	that	SCONJ	IN	_	17	mark	_	_
+13	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	_	Entity=(e177--1-agreement:singular,antetype:entity,mention:pronoun,position:subject,split:simple+antecedent,type:anaphoric,type_of_pronoun:possessive)
+14	door	door	NOUN	NN	Number=Sing	17	nsubj	_	_
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
+16	always	always	ADV	RB	_	17	advmod	_	_
+17	open	open	ADJ	JJ	Degree=Pos	5	acl	_	_
+18	.	.	PUNCT	.	_	5	punct	_	_
+
+# sent_id = 517
+# text = `` Jeremy Hunt needs to act now , lift the imposition and address junior doctors '' concerns .
+1	``	''	PUNCT	``	_	4	punct	_	_
+2	Jeremy	Jeremy	PROPN	NNP	Number=Sing	4	nsubj	_	Entity=(e177--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+3	Hunt	Hunt	PROPN	NNP	Number=Sing	2	flat	_	Entity=e177)
+4	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	to	to	PART	TO	_	6	mark	_	_
+6	act	act	VERB	VB	VerbForm=Inf	4	xcomp	_	_
+7	now	now	ADV	RB	_	6	advmod	_	_
+8	,	,	PUNCT	,	_	9	punct	_	_
+9	lift	lift	VERB	VB	VerbForm=Inf	6	conj	_	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	_
+11	imposition	imposition	NOUN	NN	Number=Sing	9	obj	_	_
+12	and	and	CCONJ	CC	_	13	cc	_	_
+13	address	address	VERB	VB	VerbForm=Inf	6	conj	_	_
+14	junior	junior	ADJ	JJ	Degree=Pos	15	amod	_	_
+15	doctors	doctor	NOUN	NNS	Number=Plur	17	nmod:poss	_	_
+16	''	''s	PART	POS	_	15	case	_	_
+17	concerns	concern	NOUN	NNS	Number=Plur	13	obj	_	_
+18	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = 518
+# text = If he does not then junior doctors are clear that they are prepared to take further industrial action .
+1	If	if	SCONJ	IN	_	3	mark	_	_
+2	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Entity=(e177--1-agreement:singular,antetype:entity,mention:pronoun,position:subject,split:simple+antecedent,type:anaphoric,type_of_pronoun:personal)
+3	does	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+4	not	not	PART	RB	Polarity=Neg	3	advmod	_	_
+5	then	then	ADV	RB	PronType=Dem	9	advmod	_	_
+6	junior	junior	ADJ	JJ	Degree=Pos	7	amod	_	Entity=(e183--2-mention:np,nptype:antecedent
+7	doctors	doctor	NOUN	NNS	Number=Plur	9	nsubj	_	Entity=e183)
+8	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	clear	clear	ADJ	JJ	Degree=Pos	0	root	_	_
+10	that	that	SCONJ	IN	_	13	mark	_	_
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj:pass	_	Entity=(e183--1-agreement:plural,antetype:entity,mention:pronoun,position:subject,split:simple+antecedent,type:anaphoric,type_of_pronoun:personal)
+12	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux:pass	_	_
+13	prepared	prepare	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	ccomp	_	_
+14	to	to	PART	TO	_	15	mark	_	_
+15	take	take	VERB	VB	VerbForm=Inf	13	xcomp	_	_
+16	further	further	ADJ	JJR	Degree=Cmp	18	amod	_	_
+17	industrial	industrial	ADJ	JJ	Degree=Pos	18	amod	_	_
+18	action	action	NOUN	NN	Number=Sing	15	obj	_	_
+19	.	.	PUNCT	.	_	9	punct	_	_
+
+# sent_id = 519
+# text = The last strike at the end of April saw the postponement of nearly 13,000 routine operations and 100,000 appointments as nurses and consultants were drafted in to provide cover for doctors on the picket line .
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_
+2	last	last	ADJ	JJ	Degree=Pos	3	amod	_	_
+3	strike	strike	NOUN	NN	Number=Sing	9	nsubj	_	_
+4	at	at	ADP	IN	_	6	case	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	_
+6	end	end	NOUN	NN	Number=Sing	3	nmod	_	_
+7	of	of	ADP	IN	_	8	case	_	_
+8	April	April	PROPN	NNP	Number=Sing	6	nmod	_	_
+9	saw	see	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	_
+11	postponement	postponement	NOUN	NN	Number=Sing	9	obj	_	_
+12	of	of	ADP	IN	_	16	case	_	_
+13	nearly	nearly	ADV	RB	Degree=Pos	14	advmod	_	_
+14	13,000	13000	NUM	CD	NumForm=Digit|NumType=Card	16	nummod	_	_
+15	routine	routine	ADJ	JJ	Degree=Pos	16	amod	_	_
+16	operations	operation	NOUN	NNS	Number=Plur	11	nmod	_	_
+17	and	and	CCONJ	CC	_	19	cc	_	_
+18	100,000	100000	NUM	CD	NumForm=Digit|NumType=Card	19	nummod	_	_
+19	appointments	appointment	NOUN	NNS	Number=Plur	11	conj	_	_
+20	as	as	SCONJ	IN	_	25	mark	_	_
+21	nurses	nurse	NOUN	NNS	Number=Plur	25	nsubj:pass	_	_
+22	and	and	CCONJ	CC	_	23	cc	_	_
+23	consultants	consultant	NOUN	NNS	Number=Plur	21	conj	_	_
+24	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	25	aux:pass	_	_
+25	drafted	draft	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	advcl	_	_
+26	in	in	ADP	RP	_	25	compound:prt	_	_
+27	to	to	PART	TO	_	28	mark	_	_
+28	provide	provide	VERB	VB	VerbForm=Inf	25	advcl	_	_
+29	cover	cover	NOUN	NN	Number=Sing	28	obj	_	_
+30	for	for	ADP	IN	_	31	case	_	_
+31	doctors	doctor	NOUN	NNS	Number=Plur	29	nmod	_	_
+32	on	on	ADP	IN	_	35	case	_	_
+33	the	the	DET	DT	Definite=Def|PronType=Art	35	det	_	_
+34	picket	picket	NOUN	NN	Number=Sing	35	compound	_	_
+35	line	line	NOUN	NN	Number=Sing	31	nmod	_	_
+36	.	.	PUNCT	.	_	9	punct	_	_
+
+# sent_id = 520
+# text = Ministers had hoped to end the dispute over the changes by agreeing to a reformed contract with British Medical Association officials .
+1	Ministers	minister	NOUN	NNS	Number=Plur	3	nsubj	_	_
+2	had	have	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	_
+3	hoped	hope	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+4	to	to	PART	TO	_	5	mark	_	_
+5	end	end	VERB	VB	VerbForm=Inf	3	xcomp	_	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	_
+7	dispute	dispute	NOUN	NN	Number=Sing	5	obj	_	_
+8	over	over	ADP	IN	_	10	case	_	_
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	_
+10	changes	change	NOUN	NNS	Number=Plur	7	nmod	_	_
+11	by	by	SCONJ	IN	_	12	mark	_	_
+12	agreeing	agree	VERB	VBG	VerbForm=Ger	5	advcl	_	_
+13	to	to	ADP	IN	_	16	case	_	_
+14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	_
+15	reformed	reform	VERB	VBN	Tense=Past|VerbForm=Part	16	amod	_	_
+16	contract	contract	NOUN	NN	Number=Sing	12	obl	_	_
+17	with	with	ADP	IN	_	21	case	_	_
+18	British	British	ADJ	NNP	Degree=Pos|Number=Sing	20	amod	_	_
+19	Medical	Medical	ADJ	NNP	Degree=Pos|Number=Sing	20	amod	_	_
+20	Association	Association	PROPN	NNP	Number=Sing	21	compound	_	_
+21	officials	official	NOUN	NNS	Number=Plur	16	nmod	_	_
+22	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = 521
+# text = The BMA wants better weekend pay for the 54,000 junior doctors who would be subject of the contract .
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
+2	BMA	BMA	PROPN	NNP	Abbr=Yes|Number=Sing	3	nsubj	_	_
+3	wants	want	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	better	good	ADJ	JJR	Degree=Cmp	6	amod	_	_
+5	weekend	weekend	NOUN	NN	Number=Sing	6	compound	_	_
+6	pay	pay	NOUN	NN	Number=Sing	3	obj	_	_
+7	for	for	ADP	IN	_	11	case	_	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	Entity=(e184--4-mention:np,nptype:antecedent
+9	54,000	54000	NUM	CD	NumForm=Digit|NumType=Card	11	nummod	_	_
+10	junior	junior	ADJ	JJ	Degree=Pos	11	amod	_	_
+11	doctors	doctor	NOUN	NNS	Number=Plur	6	nmod	_	Entity=e184)
+12	who	who	PRON	WP	PronType=Rel	15	nsubj	_	Entity=(e184--1-agreement:plural,antetype:entity,mention:pronoun,position:subject,split:simple+antecedent,type:anaphoric,type_of_pronoun:relative)
+13	would	would	AUX	MD	VerbForm=Fin	15	aux	_	_
+14	be	be	AUX	VB	VerbForm=Inf	15	cop	_	_
+15	subject	subject	ADJ	JJ	Degree=Pos	11	acl:relcl	_	_
+16	of	of	ADP	IN	_	18	case	_	_
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	_
+18	contract	contract	NOUN	NN	Number=Sing	15	obl	_	_
+19	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = 522
+# text = Daniel Mortimer , chief executive of NHS Employers , called on junior doctors not to go ahead with any strikes .
+1	Daniel	Daniel	PROPN	NNP	Number=Sing	10	nsubj	_	Entity=(e185--1-mention:np,nptype:antecedent
+2	Mortimer	Mortimer	PROPN	NNP	Number=Sing	1	flat	_	Entity=e185)
+3	,	,	PUNCT	,	_	5	punct	_	_
+4	chief	chief	ADJ	JJ	Degree=Pos	5	amod	_	Entity=(e185--2-mention:np,nptype:apposition,sub_apposition:none
+5	executive	executive	NOUN	NN	Number=Sing	1	appos	_	_
+6	of	of	ADP	IN	_	8	case	_	_
+7	NHS	NHS	PROPN	NNP	Abbr=Yes|Number=Sing	8	compound	_	_
+8	Employers	Employer	PROPN	NNPS	Number=Plur	5	nmod	_	Entity=e185)
+9	,	,	PUNCT	,	_	1	punct	_	_
+10	called	call	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11	on	on	ADP	IN	_	13	case	_	_
+12	junior	junior	ADJ	JJ	Degree=Pos	13	amod	_	_
+13	doctors	doctor	NOUN	NNS	Number=Plur	10	obl	_	_
+14	not	not	PART	RB	Polarity=Neg	16	advmod	_	_
+15	to	to	PART	TO	_	16	mark	_	_
+16	go	go	VERB	VB	VerbForm=Inf	10	xcomp	_	_
+17	ahead	ahead	ADV	RB	Degree=Pos	16	advmod	_	_
+18	with	with	ADP	IN	_	20	case	_	_
+19	any	any	DET	DT	PronType=Ind	20	det	_	_
+20	strikes	strike	NOUN	NNS	Number=Plur	16	obl	_	_
+21	.	.	PUNCT	.	_	10	punct	_	_
+
+# sent_id = 523
+# text = Mr Mortimer said : `` Industrial action achieves little or nothing , but places pressure on already stretched teams and services and causes worry , distress and disruption for patients , carers and their families . ''
+1	Mr	mister	NOUN	NN	Number=Sing	3	nsubj	_	Entity=(e185--1-anacata:anaphoric,antetype:entity,mention:np,npmod:none,nptype:np,split:simple+antecedent
+2	Mortimer	Mortimer	PROPN	NNP	Number=Sing	1	flat	_	Entity=e185)
+3	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	:	:	PUNCT	:	_	8	punct	_	_
+5	``	''	PUNCT	``	_	8	punct	_	_
+6	Industrial	industrial	ADJ	JJ	Degree=Pos	7	amod	_	_
+7	action	action	NOUN	NN	Number=Sing	8	nsubj	_	_
+8	achieves	achieve	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+9	little	little	ADJ	JJ	Degree=Pos	8	obj	_	_
+10	or	or	CCONJ	CC	_	11	cc	_	_
+11	nothing	nothing	NOUN	NN	Number=Sing|Polarity=Neg	9	conj	_	_
+12	,	,	PUNCT	,	_	14	punct	_	_
+13	but	but	CCONJ	CC	_	14	cc	_	_
+14	places	place	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+15	pressure	pressure	NOUN	NN	Number=Sing	14	obj	_	_
+16	on	on	ADP	IN	_	19	case	_	_
+17	already	already	ADV	RB	_	18	advmod	_	_
+18	stretched	stretch	VERB	VBN	Tense=Past|VerbForm=Part	19	amod	_	_
+19	teams	team	NOUN	NNS	Number=Plur	15	nmod	_	_
+20	and	and	CCONJ	CC	_	21	cc	_	_
+21	services	service	NOUN	NNS	Number=Plur	19	conj	_	_
+22	and	and	CCONJ	CC	_	23	cc	_	_
+23	causes	cause	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+24	worry	worry	NOUN	NN	Number=Sing	23	obj	_	_
+25	,	,	PUNCT	,	_	26	punct	_	_
+26	distress	distress	NOUN	NN	Number=Sing	24	conj	_	_
+27	and	and	CCONJ	CC	_	28	cc	_	_
+28	disruption	disruption	NOUN	NN	Number=Sing	24	conj	_	_
+29	for	for	ADP	IN	_	30	case	_	_
+30	patients	patient	NOUN	NNS	Number=Plur	23	obl	_	_
+31	,	,	PUNCT	,	_	32	punct	_	_
+32	carers	carer	NOUN	NNS	Number=Plur	30	conj	_	Entity=(e186--1-mention:np,nptype:antecedent)
+33	and	and	CCONJ	CC	_	35	cc	_	_
+34	their	their	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	35	nmod:poss	_	Entity=(e186--1-agreement:plural,antetype:entity,mention:pronoun,position:non%2Dsubject,split:simple+antecedent,type:anaphoric,type_of_pronoun:possessive)
+35	families	family	NOUN	NNS	Number=Plur	30	conj	_	_
+36	.	.	PUNCT	.	_	3	punct	_	_
+37	''	''	PUNCT	''	_	3	punct	_	_
+
+# sent_id = 524
+# text = Over the last two months we have been talking with the Junior Doctors Committee and have , along with the Department of Health and others , responded positively to their concerns regarding the Guardian Role and Whistleblowing .
+1	Over	over	ADP	IN	_	5	case	_	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
+3	last	last	ADJ	JJ	Degree=Pos	5	amod	_	_
+4	two	two	NUM	CD	NumForm=Word|NumType=Card	5	nummod	_	_
+5	months	month	NOUN	NNS	Number=Plur	9	obl	_	_
+6	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	_
+7	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+8	been	be	AUX	VBN	Tense=Past|VerbForm=Part	9	aux	_	_
+9	talking	talk	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	_
+10	with	with	ADP	IN	_	14	case	_	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	_
+12	Junior	Junior	ADJ	NNP	Degree=Pos|Number=Sing	13	amod	_	Entity=(e187--3-mention:np,nptype:antecedent
+13	Doctors	Doctor	PROPN	NNPS	Number=Plur	14	compound	_	_
+14	Committee	Committee	PROPN	NNP	Number=Sing	9	obl	_	Entity=e187)
+15	and	and	CCONJ	CC	_	27	cc	_	_
+16	have	have	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	27	aux	_	_
+17	,	,	PUNCT	,	_	16	punct	_	_
+18	along	along	ADV	RB	Degree=Pos	21	advmod	_	_
+19	with	with	ADP	IN	_	21	case	_	_
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	_
+21	Department	Department	PROPN	NNP	Number=Sing	27	obl	_	_
+22	of	of	ADP	IN	_	23	case	_	_
+23	Health	Health	PROPN	NNP	Number=Sing	21	nmod	_	_
+24	and	and	CCONJ	CC	_	25	cc	_	_
+25	others	other	NOUN	NNS	Number=Plur	21	conj	_	_
+26	,	,	PUNCT	,	_	21	punct	_	_
+27	responded	respond	VERB	VBN	Tense=Past|VerbForm=Part	9	conj	_	_
+28	positively	positively	ADV	RB	Degree=Pos	27	advmod	_	_
+29	to	to	ADP	IN	_	31	case	_	_
+30	their	their	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	31	nmod:poss	_	Entity=(e187--1-agreement:plural,antetype:entity,mention:pronoun,position:non%2Dsubject,split:simple+antecedent,type:anaphoric,type_of_pronoun:possessive)
+31	concerns	concern	NOUN	NNS	Number=Plur	27	obl	_	_
+32	regarding	regard	VERB	VBG	VerbForm=Ger	35	case	_	_
+33	the	the	DET	DT	Definite=Def|PronType=Art	35	det	_	_
+34	Guardian	Guardian	ADJ	NNP	Degree=Pos|Number=Sing	35	amod	_	_
+35	Role	Role	PROPN	NNP	Number=Sing	31	nmod	_	_
+36	and	and	CCONJ	CC	_	37	cc	_	_
+37	Whistleblowing	Whistleblowing	PROPN	NNP	Number=Sing	35	conj	_	_
+38	.	.	PUNCT	.	_	9	punct	_	_
+
+# sent_id = 525
+# text = Employers were hopeful that the continued positive engagement on other important topics - such as deployment , flexibility in training , additional training for those returning from career breaks , costs of training , mutual recognition of syllabus , study leave and the gender pay gap in medicine - were a sign of how serious employers , Health Education England and the Department of Health were about honouring the agreements reached with the BMA in November , February and May .
+1	Employers	employer	NOUN	NNS	Number=Plur	3	nsubj	_	_
+2	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+3	hopeful	hopeful	ADJ	JJ	Degree=Pos	0	root	_	_
+4	that	that	SCONJ	IN	_	52	mark	_	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
+6	continued	continue	VERB	VBN	Tense=Past|VerbForm=Part	8	amod	_	_
+7	positive	positive	ADJ	JJ	Degree=Pos	8	amod	_	_
+8	engagement	engagement	NOUN	NN	Number=Sing	52	nsubj	_	_
+9	on	on	ADP	IN	_	12	case	_	_
+10	other	other	ADJ	JJ	Degree=Pos	12	amod	_	_
+11	important	important	ADJ	JJ	Degree=Pos	12	amod	_	_
+12	topics	topic	NOUN	NNS	Number=Plur	8	nmod	_	_
+13	-	-	PUNCT	:	_	16	punct	_	_
+14	such	such	ADJ	JJ	Degree=Pos	16	case	_	_
+15	as	as	ADP	IN	_	14	fixed	_	_
+16	deployment	deployment	NOUN	NN	Number=Sing	8	nmod	_	_
+17	,	,	PUNCT	,	_	18	punct	_	_
+18	flexibility	flexibility	NOUN	NN	Number=Sing	16	conj	_	_
+19	in	in	ADP	IN	_	20	case	_	_
+20	training	training	NOUN	NN	Number=Sing	18	nmod	_	_
+21	,	,	PUNCT	,	_	23	punct	_	_
+22	additional	additional	ADJ	JJ	Degree=Pos	23	amod	_	_
+23	training	training	NOUN	NN	Number=Sing	16	conj	_	_
+24	for	for	ADP	IN	_	25	case	_	_
+25	those	this	PRON	DT	Number=Plur|PronType=Dem	23	nmod	_	_
+26	returning	return	VERB	VBG	VerbForm=Ger	25	acl	_	_
+27	from	from	ADP	IN	_	29	case	_	_
+28	career	career	NOUN	NN	Number=Sing	29	compound	_	_
+29	breaks	break	NOUN	NNS	Number=Plur	26	obl	_	_
+30	,	,	PUNCT	,	_	31	punct	_	_
+31	costs	cost	NOUN	NNS	Number=Plur	16	conj	_	_
+32	of	of	ADP	IN	_	33	case	_	_
+33	training	training	NOUN	NN	Number=Sing	31	nmod	_	_
+34	,	,	PUNCT	,	_	36	punct	_	_
+35	mutual	mutual	ADJ	JJ	Degree=Pos	36	amod	_	_
+36	recognition	recognition	NOUN	NN	Number=Sing	16	conj	_	_
+37	of	of	ADP	IN	_	38	case	_	_
+38	syllabus	syllabus	NOUN	NN	Number=Sing	36	nmod	_	_
+39	,	,	PUNCT	,	_	41	punct	_	_
+40	study	study	NOUN	NN	Number=Sing	41	compound	_	_
+41	leave	leave	NOUN	NN	Number=Sing	16	conj	_	_
+42	and	and	CCONJ	CC	_	46	cc	_	_
+43	the	the	DET	DT	Definite=Def|PronType=Art	46	det	_	_
+44	gender	gender	NOUN	NN	Number=Sing	45	compound	_	_
+45	pay	pay	NOUN	NN	Number=Sing	46	compound	_	_
+46	gap	gap	NOUN	NN	Number=Sing	16	conj	_	_
+47	in	in	ADP	IN	_	48	case	_	_
+48	medicine	medicine	NOUN	NN	Number=Sing	46	nmod	_	_
+49	-	-	PUNCT	:	_	8	punct	_	_
+50	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	52	cop	_	_
+51	a	a	DET	DT	Definite=Ind|PronType=Art	52	det	_	_
+52	sign	sign	NOUN	NN	Number=Sing	3	ccomp	_	_
+53	of	of	ADP	IN	_	68	mark	_	_
+54	how	how	ADV	WRB	PronType=Int	55	advmod	_	_
+55	serious	serious	ADJ	JJ	Degree=Pos	56	amod	_	_
+56	employers	employer	NOUN	NNS	Number=Plur	68	nsubj	_	_
+57	,	,	PUNCT	,	_	60	punct	_	_
+58	Health	Health	PROPN	NNP	Number=Sing	59	compound	_	_
+59	Education	Education	PROPN	NNP	Number=Sing	60	compound	_	_
+60	England	England	PROPN	NNP	Number=Sing	56	conj	_	_
+61	and	and	CCONJ	CC	_	63	cc	_	_
+62	the	the	DET	DT	Definite=Def|PronType=Art	63	det	_	_
+63	Department	Department	PROPN	NNP	Number=Sing	56	conj	_	_
+64	of	of	ADP	IN	_	65	case	_	_
+65	Health	Health	PROPN	NNP	Number=Sing	63	nmod	_	_
+66	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	68	cop	_	_
+67	about	about	SCONJ	IN	_	68	mark	_	_
+68	honouring	honour	VERB	VBG	VerbForm=Ger	52	acl	_	_
+69	the	the	DET	DT	Definite=Def|PronType=Art	70	det	_	_
+70	agreements	agreement	NOUN	NNS	Number=Plur	68	obj	_	_
+71	reached	reach	VERB	VBN	Tense=Past|VerbForm=Part	70	acl	_	_
+72	with	with	ADP	IN	_	74	case	_	_
+73	the	the	DET	DT	Definite=Def|PronType=Art	74	det	_	_
+74	BMA	BMA	PROPN	NNP	Abbr=Yes|Number=Sing	71	obl	_	_
+75	in	in	ADP	IN	_	76	case	_	_
+76	November	November	PROPN	NNP	Number=Sing	71	obl	_	_
+77	,	,	PUNCT	,	_	78	punct	_	_
+78	February	February	PROPN	NNP	Number=Sing	76	conj	_	_
+79	and	and	CCONJ	CC	_	80	cc	_	_
+80	May	May	PROPN	NNP	Number=Sing	76	conj	_	_
+81	.	.	PUNCT	.	_	3	punct	_	_
+
