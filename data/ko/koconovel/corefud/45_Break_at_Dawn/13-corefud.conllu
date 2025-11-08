@@ -1,0 +1,26 @@
+compound	_	_	part	3	compound	_	_
+2	그	그	DET	mmd	_	3	det	_	_
+3	후	후	NOUN	ncn	_	11	advmod	_	_
+4	형철이는	형철이+는	NOUN	ncpa+jxt	_	11	dislocated	_	Entity=(0)
+5	작년	작년	NOUN	ncn	_	11	advmod	_	_
+6	여름	여름	NOUN	ncn	_	7	dep	_	_
+7	×	×	SYM	su	_	11	advcl	_	SpaceAfter=No
+8	×	×	SYM	su	_	7	punct	_	SpaceAfter=No
+9	에서	에서	ADP	jca	_	7	case	_	_
+10	총살을	총살+을	NOUN	ncn+jco	_	11	obj	_	_
+11	당하였고	당+하+었+고	CCONJ	ncpa+xsv+ep+ecc	_	0	root	_	SpaceAfter=No
+12	,	,	PUNCT	sp	_	11	punct	_	_
+13	혜경이는	혜경이+는	PROPN	nq+jxt	_	14	nmod	_	SpaceAfter=No
+14	×	×	SYM	su	_	16	acl	_	SpaceAfter=No|Entity=(1)
+15	×	×	SYM	su	_	16	amod	_	SpaceAfter=No
+16	사건으로	사건+으로	ADV	ncn+jca	_	22	advcl	_	_
+17	지금	지금	NOUN	ncn	_	22	advmod	_	_
+18	×	×	SYM	su	_	20	dep	_	SpaceAfter=No
+19	×	×	SYM	su	_	18	punct	_	SpaceAfter=No
+20	감옥에서	감옥+에서	ADV	ncn+jca	_	22	advcl	_	_
+21	복역	복역	NOUN	nq+ncn	_	22	nsubj	_	_
+22	중이다	중+이+다	VERB	ncn+jp+ef	_	11	conj	_	SpaceAfter=No
+23	.	.	PUNCT	sf	_	22	punct	_	SpacesAfter=\s\n\n
+
+
+

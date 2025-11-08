@@ -1,0 +1,293 @@
+dep	_	_	part	3	dep	_	_
+2	"	"	PUNCT	sl	_	1	punct	_	SpaceAfter=No
+3	응	응	NOUN	ncn	_	5	dislocated	_	_
+4	그러자	그러자	ADV	mag	_	5	advmod	_	_
+5	몽주야	몽주야	SCONJ	pvg+ecx+px+ecs	_	9	ccomp	_	SpaceAfter=No
+6	,	,	PUNCT	sp	_	5	punct	_	Entity=(1)
+7	저	저	DET	mmd	_	8	det	_	Entity=(0
+8	엄마께	엄마께	NOUN	ncn	_	9	obj	_	Entity=0)
+9	업혀라	업혀+이+라	VERB	ncn+jp+ef	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	sf	_	9	punct	_	_
+1	내가	내+가	PRON	npp+jcs	_	2	nsubj	_	Entity=(2)
+2	어지러워서	어지러워+어서	ADV	ncn+jca	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	sf	_	2	punct	_	SpaceAfter=No
+
+1	"	"	PUNCT	sl	_	2	punct	_	SpacesAfter=\s\n
+2	김	김	PROPN	nq	_	3	compound	_	Entity=(2
+3	소사는	소사+는	NOUN	ncn+jxt	_	9	dislocated	_	Entity=2)
+4	몽주를	몽주+를	NOUN	ncn+jco	_	5	obj	_	Entity=(1)
+5	싸서	싸+서	SCONJ	pvg+ecs	_	6	ccomp	_	_
+6	업고	업+고	CCONJ	pvg+ecc	_	0	root	_	_
+7	포대기	포대기	NOUN	ncn	_	8	nmod	_	_
+8	끈을	끈+을	NOUN	ncn+jco	_	9	obj	_	_
+9	풀려고	풀+려고	VERB	pvg+ecx	_	6	conj	_	_
+10	하였다	하+었+다	AUX	px+ep+ef	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	sf	_	10	punct	_	SpacesAfter=\s\n
+
+1	몽주는	몽주+는	PROPN	nq+jxt	_	10	dislocated	_	Entity=(1)
+2	몸을	몸+을	NOUN	ncn+jco	_	3	obj	_	_
+3	틀고	틀+고	CCONJ	pvg+ecc	_	10	ccomp	_	_
+4	할머니의	할머니+의	NOUN	ncn+jcm	_	6	compound	_	Entity=(2)
+5	두	두	NUM	nnc	_	6	nummod	_	_
+6	어깨를	어깨+를	NOUN	ncn+jco	_	8	obj	_	_
+7	꼭	꼭	ADV	mag	_	8	advmod	_	_
+8	잡으면서	잡으면서	SCONJ	pvg+ecs	_	3	conj	_	_
+9	낑낑	낑낑	NOUN	ncn	_	10	obj	_	_
+10	운다	우+ㄴ다	VERB	pvg+ef	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	sf	_	10	punct	_	SpacesAfter=\s\n
+
+1	"	"	PUNCT	sl	_	2	punct	_	SpaceAfter=No
+2	야	야	SCONJ	pvg+ecx+px+ecs	_	7	ccomp	_	SpaceAfter=No
+3	,	,	PUNCT	sp	_	2	punct	_	_
+4	또	또	ADV	mag	_	6	advmod	_	_
+5	울음을	울음+을	NOUN	ncn+jco	_	6	obj	_	_
+6	내면	내+면	SCONJ	pvg+ecs	_	7	ccomp	_	_
+7	큰일이다	큰일+이+다	VERB	ncpa+jp+ef	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	sf	_	7	punct	_	_
+1	어서	어서	SCONJ	pvg+ecx+px+ecs	_	3	ccomp	_	_
+2	보퉁이나	보퉁+이나	ADV	nbu+jxc	_	3	advcl	_	_
+3	들어라	듣+어라	VERB	pvg+ef	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	sf	_	3	punct	_	SpaceAfter=No
+
+1	"	"	PUNCT	sl	_	2	punct	_	SpacesAfter=\s\n
+2	김	김	PROPN	nq	_	3	compound	_	Entity=(2
+3	소사는	소사+는	NOUN	ncn+jxt	_	5	dislocated	_	Entity=2)
+4	운경이를	운경이+를	NOUN	ncn+jco	_	5	obj	_	Entity=(0)
+5	돌아다보았다	돌아다보+았+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	sf	_	5	punct	_	SpacesAfter=\s\n
+
+1	운경이는	운경이+는	NOUN	ncn+jxt	_	6	dislocated	_	Entity=(0)
+2	그저	그저	ADV	mag	_	6	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	sp	_	2	punct	_	SpacesAfter=\s\n
+4	"	"	PUNCT	sl	_	5	punct	_	SpaceAfter=No
+5	몽주가	몽주+가	NOUN	ncn+jcs	_	6	dep	_	_
+6	곱지	곱+지	VERB	ncps+xsm+ecx	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	sf	_	6	punct	_	_
+
+?	"몽주가	?	?	?	?	?	?	?	Entity=(1)
+1	울지	울지	VERB	pvg+ecx	_	11	ccomp	_	_
+2	말라	말+라	AUX	px+ef	_	1	aux	_	SpaceAfter=No
+3	,	,	PUNCT	sp	_	2	punct	_	_
+4	내가	내+가	PRON	npp+jcs	_	5	nsubj	_	Entity=(0)
+6	.	.	PUNCT	sf	_	5	punct	_	SpaceAfter=No
+7	"	"	PUNCT	sr	_	5	punct	_	SpacesAfter=\s\n
+8	하면서	하+면서	CCONJ	pvg+ecc	_	0	root	_	_
+9	몽주의	몽주의	NOUN	ncn+jcm	_	11	dislocated	_	Entity=(1)
+10	머리를	머리+를	NOUN	ncpa+jco	_	11	obj	_	_
+11	쓰다듬었다	쓰다듬+었+다	VERB	pvg+ep+ef	_	8	conj	_	SpaceAfter=No
+12	.	.	PUNCT	sf	_	11	punct	_	SpacesAfter=\s\n
+
+1	"	"	PUNCT	sl	_	2	punct	_	SpaceAfter=No
+2	야	야	SCONJ	pvg+ecx+px+ecs	_	3	xcomp	_	_
+3	울지	울지	ADJ	paa+ecx	_	9	amod	_	_
+4	말라	말+라	AUX	px+ef	_	3	aux	_	SpaceAfter=No
+5	,	,	PUNCT	sp	_	4	punct	_	_
+6	그	그	DET	mmd	_	7	det	_	Entity=(0
+7	엄마	엄마	NOUN	ncn	_	9	dislocated	_	Entity=0)
+8	안	안	ADV	mag	_	9	advmod	_	_
+9	업는다	업+는다	VERB	pvg+ef	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	sf	_	9	punct	_	SpaceAfter=No
+
+1	"	"	PUNCT	sl	_	2	punct	_	SpacesAfter=\s\n
+2	김	김	PROPN	nq	_	3	compound	_	Entity=(2
+3	소사는	소사+는	NOUN	ncn+jxt	_	12	dislocated	_	Entity=2)
+4	몽주를	몽주+를	NOUN	ncn+jco	_	5	obj	_	Entity=(1)
+5	얼싸	얼싸+아	VERB	pvg+ecx	_	7	ccomp	_	_
+6	추켜	추키+어	SCONJ	ncpa+xsv+ecs	_	5	aux	_	_
+7	업더니	업+더니	SCONJ	pvg+ecx+px+ecs	_	12	ccomp	_	_
+8	다시	다시	ADV	mag	_	12	advmod	_	SpaceAfter=No
+9	,	,	PUNCT	sp	_	8	punct	_	SpacesAfter=\s\n
+10	"	"	PUNCT	sl	_	11	punct	_	SpaceAfter=No
+11	어서	어서	SCONJ	paa+ecs	_	12	ccomp	_	_
+12	걸어라	걸어라	VERB	pvg+ef	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	sf	_	12	punct	_	_
+
+1	낯설어서	낯설어서	SCONJ	pvg+ecs	_	2	ccomp	_	_
+2	그런다	그런다	VERB	pvg+ef	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	sf	_	2	punct	_	SpaceAfter=No
+
+1	"	"	PUNCT	sl	_	2	punct	_	SpacesAfter=\s\n
+2	하면서	하+면서	CCONJ	pvg+ecc	_	0	root	_	_
+3	운경이를	운경이+를	NOUN	ncn+jco	_	4	obj	_	Entity=(0)
+4	본다	보+ㄴ다	VERB	pvg+ef	_	2	conj	_	SpaceAfter=No
+5	.	.	PUNCT	sf	_	4	punct	_	SpacesAfter=\s\n
+
+1	"	"	PUNCT	sl	_	2	punct	_	SpaceAfter=No|Entity=(1)
+2	계집애	계집애	NOUN	ncn	_	5	dislocated	_	_
+3	아무	아무	NUM	nnc	_	4	nummod	_	_
+4	푸접도	푸접+도	ADV	ncn+jxc	_	5	advcl	_	_
+6	!	!	PUNCT	sf	_	5	punct	_	SpaceAfter=No
+7	"	"	PUNCT	sr	_	5	punct	_	SpacesAfter=\s\n
+8	운경이는	운경이+는	NOUN	ncn+jxt	_	9	compound	_	Entity=(0)
+9	몽주를	몽주+를	NOUN	ncn+jco	_	10	obj	_	Entity=(1)
+10	흘끔	흘끔	SCONJ	pvg+ecs	_	12	ccomp	_	_
+11	가로	가+로	ADV	ncn+jca	_	12	advcl	_	_
+12	보면서	보+면서	CCONJ	pvg+ecc	_	0	root	_	_
+13	보퉁이를	보퉁이+를	NOUN	ncn+jco	_	15	dislocated	_	_
+14	머리에	머리+에	ADV	ncn+jca	_	15	obl	_	_
+15	이었다	잇+었+다	VERB	pvg+ep+ef	_	12	conj	_	SpaceAfter=No
+16	.	.	PUNCT	sf	_	15	punct	_	SpacesAfter=\s\n
+
+1	몽주는	몽주+는	PROPN	nq+jxt	_	15	dislocated	_	Entity=(1)
+2	운경이가	운경이+가	PROPN	nq+jcs	_	3	compound	_	Entity=(0)
+3	소리를	소리+를	NOUN	ncpa+jco	_	15	obj	_	_
+4	빽	빽	NOUN	ncn	_	5	obj	_	_
+5	지르면서	지르+면서	CCONJ	pvg+ecc	_	9	acl	_	_
+6	흘끔	흘끔	ADV	mag	_	8	advcl	_	_
+7	가로	가+로	ADV	ncn+jca	_	8	advcl	_	_
+8	보는	보+는	VERB	pvg+etm	_	5	conj	_	_
+9	것을	것+을	NOUN	nbn+jco	_	10	obj	_	_
+10	보더니	보+더니	SCONJ	pvg+ecs	_	14	ccomp	_	_
+11	또	또	ADV	mag	_	13	advmod	_	_
+12	비죽비죽	비죽비죽	NOUN	ncn	_	13	obj	_	_
+13	섧게	섧+게	SCONJ	pvg+ecs	_	14	ccomp	_	_
+14	섧게	섧+게	SCONJ	pvg+ecs	_	15	ccomp	_	_
+15	운다	우+ㄴ다	VERB	pvg+ef	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	sf	_	15	punct	_	SpacesAfter=\s\n
+
+1	"	"	PUNCT	sl	_	2	punct	_	SpaceAfter=No
+2	엑	엑	NOUN	ncn	_	3	dep	_	_
+3	이년아	이년아	SCONJ	pvg+ecs	_	0	root	_	Entity=(0)
+4	아이를	아이+를	NOUN	ncn+jco	_	6	obj	_	Entity=(1)
+5	어째	어+째	ADV	mag	_	6	advcl	_	_
+6	욕하니	욕하니	SCONJ	ncpa+xsv+ecs	_	3	conj	_	SpaceAfter=No
+7	?	?	PUNCT	sf	_	6	punct	_	_
+1	그	그	DET	mmd	_	2	det	_	Entity=(0
+2	엄마	엄마	NOUN	ncn	_	3	dislocated	_	Entity=0)
+3	밉다	밉+다	ADJ	paa+ef	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	sf	_	3	punct	_	_
+1	몽주야	몽주야	SCONJ	pvg+ecx+px+ecs	_	2	ccomp	_	Entity=(1)
+2	울지	울+지	VERB	pvg+ecx	_	17	ccomp	_	_
+4	.	.	PUNCT	sf	_	3	punct	_	SpaceAfter=No
+5	"	"	PUNCT	sr	_	3	punct	_	SpacesAfter=\s\n
+6	김	김	PROPN	nq	_	7	compound	_	Entity=(2
+7	소사는	소사+는	NOUN	ncn+jxt	_	9	nsubj	_	Entity=2)
+8	운경이를	운경이+를	NOUN	ncn+jco	_	9	obj	_	Entity=(0)
+9	치는	치+는	VERB	pvg+etm	_	11	acl	_	_
+10	척하면서	척+하+면서	CCONJ	ncpa+xsv+ecc	_	12	obj	_	_
+11	손을	손+을	NOUN	ncn+jco	_	10	conj	_	_
+12	돌리다가	돌리+다가	SCONJ	pvg+ecs	_	17	ccomp	_	_
+13	몽주의	몽주의	NOUN	ncn	_	14	nmod	_	Entity=(1)
+14	궁둥이를	궁둥이+를	NOUN	ncn+jco	_	17	dislocated	_	_
+15	툭툭	툭툭	NOUN	ncn	_	17	obj	_	_
+16	가볍게	가볍+게	SCONJ	paa+ecs	_	17	xcomp	_	_
+17	쳤다	치+었+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	sf	_	17	punct	_	SpacesAfter=\s\n
+
+1	몽주는	몽주+는	PROPN	nq+jxt	_	5	dislocated	_	Entity=(1)
+2	흑흑	흑흑	NOUN	ncn	_	3	obj	_	_
+3	느끼면서	느끼+면서	CCONJ	pvg+ecc	_	0	root	_	_
+4	울음을	울음+을	NOUN	ncn+jco	_	5	obj	_	_
+5	그쳤다	그치+었+다	VERB	pvg+ep+ef	_	3	conj	_	SpaceAfter=No
+6	.	.	PUNCT	sf	_	5	punct	_	SpacesAfter=\s\n
+
+1	"	"	PUNCT	sl	_	2	punct	_	SpaceAfter=No
+2	흐흐흐	흐흐흐	PROPN	nq	_	3	compound	_	_
+3	고것도	고것+도	ADV	ncn+jxc	_	7	advcl	_	Entity=(1)
+4	설은	설+은	NOUN	ncn+ncn+jxt	_	5	nmod	_	_
+5	줄을	줄+을	NOUN	ncn+jco	_	7	obj	_	_
+6	다	다	ADV	mag	_	7	advmod	_	_
+7	아는가	알+는가	VERB	pvg+ef	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	sf	_	7	punct	_	SpaceAfter=No
+
+1	"	"	PUNCT	sl	_	2	punct	_	SpacesAfter=\s\n
+2	운경이는	운경이+는	NOUN	ncn+jxt	_	3	compound	_	Entity=(0)
+3	몽주를	몽주+를	NOUN	ncn+jco	_	8	dislocated	_	Entity=(1)
+4	귀여운	귀엽+ㄴ	ADJ	paa+etm	_	5	amod	_	_
+5	듯이	듯이	NOUN	nbn+jcs	_	8	advmod	_	_
+6	돌아다보고는	돌아다보+고+는	NOUN	ncpa+xsv+ecc+jxt	_	7	obj	_	_
+7	앞서서	앞서+서	SCONJ	pvg+ecs	_	8	ccomp	_	_
+8	걸었다	걷+었+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	sf	_	8	punct	_	SpacesAfter=\s\n
+
+1	두	두	NUM	nnc	_	2	nummod	_	Entity=(5
+2	청년도	청년+도	NOUN	nbu	_	3	dislocated	_	Entity=5)
+3	뒤미쳐	뒤미치+어	SCONJ	pvg+ecs	_	4	ccomp	_	_
+4	걸었다	걷+었+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	sf	_	4	punct	_	SpacesAfter=\s\n
+
+1	아침때가	아침때+가	PRON	npd+jcs	_	3	dislocated	_	_
+2	훨씬	훨씬	ADV	mag	_	3	advmod	_	_
+3	겨운	겹+ㄴ	ADJ	paa+etm	_	4	amod	_	_
+4	햇볕은	햇볕+은	NOUN	ncn+jxt	_	5	nsubj	_	_
+5	뜨겁게	뜨겁+게	SCONJ	paa+ecs	_	8	ccomp	_	_
+6	그네의	그네+의	PRON	npp+jcm	_	7	compound	_	Entity=(3)
+7	등을	등+을	NOUN	nbn+jco	_	8	obj	_	_
+8	지지었다	지짓+었+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	sf	_	8	punct	_	SpacesAfter=\s\n
+
+1	물가에	물가+에	ADV	ncn+jca	_	2	advcl	_	_
+2	밀려들었다가	밀려들었다가	SCONJ	pvg+ecs	_	3	ccomp	_	_
+3	물러가는	물러가+는	AUX	pvg+ecx+px+etm	_	5	acl	_	_
+4	잔물결	잔물결	NOUN	ncn	_	5	compound	_	_
+5	소리는	소리+는	NOUN	ncn+jxt	_	6	nsubj	_	_
+6	고요하였다	고요+하+었+다	VERB	ncpa+xsv+ep+ef	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	sf	_	6	punct	_	SpacesAfter=\s\n
+
+1	걸치기	걸치+기	ADJ	paa+etn	_	2	amod	_	_
+2	고개	고개	NOUN	ncn	_	3	nmod	_	_
+3	쪽에서는	쪽+에서+는	NOUN	ncn+jca+jxt	_	9	dislocated	_	_
+4	우르르	우르르	PROPN	nq	_	5	obj	_	_
+5	우르르하는	우르르+하+는	VERB	ncpa+xsv+etm	_	6	acl	_	_
+6	기차	기차	NOUN	ncn	_	7	compound	_	_
+7	소리가	소리+가	NOUN	ncpa+jcs	_	9	nsubj	_	_
+8	연방	연방	NOUN	ncn	_	9	nsubj	_	_
+9	들린다	들리+ㄴ다	VERB	pvg+ef	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	sf	_	9	punct	_	SpacesAfter=\s\n
+
+1	본정	본정	NOUN	ncn	_	2	compound	_	_
+2	좌우에	좌우+에	ADV	ncpa+jca	_	3	obl	_	_
+3	벌려	벌리+어	VERB	pvg+ecx	_	7	acl	_	_
+4	있는	있+는	AUX	px+etm	_	3	aux	_	_
+5	일본	일본	PROPN	nq	_	6	compound	_	_
+6	상점은	상점+은	NOUN	ncn+jxt	_	7	nmod	_	_
+7	난리	난리	PROPN	nq	_	10	dislocated	_	_
+8	뒤와	뒤+와	CCONJ	ncn+jct	_	10	xcomp	_	_
+9	같이	같+이	SCONJ	paa+ecs	_	8	conj	_	_
+10	쓸쓸하였다	쓸쓸+하+었+다	VERB	ncpa+xsv+ep+ef	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	sf	_	10	punct	_	SpacesAfter=\s\n
+
+1	짐을	짐+을	NOUN	ncn+jco	_	8	dislocated	_	_
+2	산	산	NOUN	ncn	_	3	dep	_	_
+3	같이	같+이	SCONJ	paa+ecs	_	8	xcomp	_	_
+4	실은	실은	ADV	mag	_	8	advmod	_	_
+5	달구지가	달구지+가	NOUN	ncn+jcs	_	6	compound	_	_
+6	느럭느럭	느럭느럭	ADV	mag	_	8	advcl	_	_
+7	부두를	부두+를	NOUN	ncn+jco	_	8	nsubj	_	_
+8	향하고	향하+고	VERB	pvg+ecx	_	0	root	_	_
+9	간다	가+ㄴ다	AUX	px+ef	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	sf	_	9	punct	_	SpacesAfter=\s\n
+
+1	자전거가	자전거+가	NOUN	ncn+ncpa+jcs	_	2	nsubj	_	_
+2	두서너	두서너	ADJ	mma	_	3	amod	_	_
+3	채나	채+나	CCONJ	ncn+jcj	_	5	ccomp	_	_
+4	한가롭게	한가롭+게	SCONJ	paa+ecs	_	3	conj	_	_
+5	지나가고	지나+아+가+고	AUX	pvg+ecx+px+ecx	_	0	root	_	_
+6	지나온다	지나오+ㄴ다	AUX	px+ef	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	sf	_	6	punct	_	SpacesAfter=\s\n
+
+1	점점	점점	ADV	mag	_	5	advmod	_	_
+2	올라오면서	올라오면서	CCONJ	ncpa+xsv+ecc	_	4	nmod	_	_
+3	사람의	사람+의	NOUN	ncn+jcm	_	2	conj	_	_
+4	왕래가	왕래+가	NOUN	ncn+jcs	_	5	obj	_	_
+5	빈번하였다	빈번+하+었+다	VERB	ncps+xsm+ep+ef	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	sf	_	5	punct	_	SpacesAfter=\s\n
+
+1	성진굽	성진굽	NOUN	ncn	_	7	dislocated	_	_
+2	아래에는	아래+에+는	NOUN	ncn+jca+jxt	_	3	compound	_	_
+3	정거장을	정거장+을	NOUN	ncn+jco	_	4	obj	_	_
+4	짓노라고	짓노+이+라+고	VERB	nq+jp+ef+jcr	_	5	acl	_	_
+5	일꾼이	일꾼+이	NOUN	ncn+jcs	_	6	nsubj	_	Entity=(6)
+6	우물우물하여	우물우물+하+어	SCONJ	ncpa+xsv+ecs	_	7	xcomp	_	_
+7	분주하다	분주+하+다	VERB	ncps+xsm+ef	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	sf	_	7	punct	_	SpacesAfter=\s\n
+
+1	일행은	일행+은	NOUN	ncn+jxt	_	5	dislocated	_	Entity=(4)
+2	본정을	본정+을	NOUN	ncn+jco	_	3	nsubj	_	_
+3	지나서	지나+서	SCONJ	pvg+ecs	_	5	ccomp	_	_
+4	한천교에	한천교+에	ADV	ncn+jca	_	5	obl	_	_
+5	다다랐다	다다르+았+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	sf	_	5	punct	_	SpacesAfter=\s\n\n
+
+
+

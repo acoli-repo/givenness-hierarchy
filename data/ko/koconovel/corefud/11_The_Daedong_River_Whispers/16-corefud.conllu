@@ -1,0 +1,125 @@
+compound	_	_	part	2	compound	_	_
+2	이리하여	이리하+어	SCONJ	pvg+ecs	_	23	ccomp	_	_
+3	그도	그+도	ADV	npp+jxc	_	6	advcl	_	Entity=(1)
+4	자기의	자기+의	PRON	npp+jcm	_	5	nmod	_	_
+5	형을	형+을	NOUN	ncn+jco	_	6	obj	_	Entity=2)
+6	본받아서	본받아서	SCONJ	pvg+ecs	_	15	ccomp	_	SpaceAfter=No
+7	,	,	PUNCT	sp	_	6	punct	_	_
+8	인젠	인제+는	ADV	mag	_	10	advcl	_	_
+9	자유로	자유+로	ADV	ncps+jca	_	10	advcl	_	_
+10	몸도	몸+도	ADV	ncn+jxc	_	12	advcl	_	_
+11	못	못	ADV	mag	_	12	advmod	_	_
+12	쓰는	쓰+는	VERB	pvg+etm	_	14	acl	_	_
+13	늙은	늙+은	ADJ	paa+etm	_	14	amod	_	Entity=(3
+14	아버지를	아버지+를	NOUN	ncn+jco	_	15	obj	_	Entity=3)
+15	버려놓고	버려놓고	CCONJ	pvg+ecx+px+ecc	_	0	root	_	SpaceAfter=No
+16	,	,	PUNCT	sp	_	15	punct	_	_
+17	어떤	어떤	DET	mmd	_	18	det	_	_
+18	날	날	NOUN	ncn	_	19	compound	_	_
+19	밤	밤	NOUN	ncn	_	23	advmod	_	_
+20	지향	지향	NOUN	ncn	_	21	dep	_	_
+21	없는	없+는	ADJ	paa+etm	_	22	amod	_	_
+22	길을	길+을	NOUN	ncn+jco	_	23	obj	_	_
+23	떠났다	떠나+ㅆ+다	VERB	pvg+ep+ef	_	15	conj	_	SpaceAfter=No
+24	.	.	PUNCT	sf	_	23	punct	_	SpacesAfter=\s\n
+
+1	여는	열+는	VERB	pvg+etm	_	2	acl	_	Entity=(0)
+2	한숨을	한숨+을	NOUN	ncn+jco	_	3	obj	_	_
+3	쉬었다	쉬+었+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	sf	_	3	punct	_	SpacesAfter=\s\n
+
+1	그리고	그리고	CCONJ	maj	_	10	cc	_	_
+2	마치	마치	ADV	mag	_	10	advmod	_	_
+3	애애를	애애+를	NOUN	ncn+jco	_	4	obj	_	Entity=(1)
+4	찾듯	찾+듯	SCONJ	pvg+ecx+px+ecs	_	8	ccomp	_	_
+5	두어	두+어	NUM	nnc	_	6	nummod	_	_
+6	번	번	NOUN	nbu	_	8	advmod	_	_
+7	휘파람을	휘파람+ㄹ	NOUN	ncn+jco	_	8	obj	_	_
+8	불어본	불+어+보+ㄴ	VERB	pvg+etm	_	9	acl	_	_
+9	뒤에	뒤+에	ADV	ncn+jca	_	10	obl	_	_
+10	일어섰다	일어서+ㅆ+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	sf	_	10	punct	_	SpacesAfter=\s\n
+
+1	여의	여+의	PROPN	nq+jcm	_	13	dislocated	_	Entity=(0)
+2	곁에	곁+에	ADV	ncn+jca	_	3	obl	_	_
+3	앉아	앉+아	VERB	pvg+ecx	_	6	acl	_	_
+4	있는	있+는	AUX	px+etm	_	3	aux	_	_
+5	뭇	뭇	ADJ	mma	_	6	amod	_	_
+6	평양인들은	평양인+들+은	NOUN	ncn+xsn+jxt	_	10	nsubj	_	_
+7	그래도	그래도	ADV	mag	_	10	advmod	_	_
+8	끊임없이	끊임없이	ADV	mag	_	10	advmod	_	_
+9	뜻	뜻	NOUN	ncn	_	10	dep	_	_
+10	없이	없+이	SCONJ	paa+ecs	_	13	xcomp	_	_
+11	장칭류의	장칭류+의	NOUN	ncn+jcm	_	12	nmod	_	_
+12	대동강만	대동강+만	ADV	ncn+jxc	_	13	advcl	_	_
+13	굽어보고	굽+어+보+고	AUX	pvg+ecx+px+ecx	_	0	root	_	_
+14	있다	있+다	AUX	px+ef	_	13	aux	_	SpaceAfter=No
+15	.	.	PUNCT	sf	_	14	punct	_	SpacesAfter=\s\n
+
+1	'	'	PUNCT	sl	_	2	punct	_	SpaceAfter=No
+2	아	아	INTJ	ii	_	9	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	sp	_	2	punct	_	_
+4	아	아	INTJ	ii	_	9	ccomp	_	SpaceAfter=No
+5	!	!	PUNCT	sf	_	4	punct	_	SpaceAfter=No
+6	'	'	PUNCT	sr	_	4	punct	_	_
+7	여는	열+는	VERB	pvg+etm	_	4	case	_	Entity=(0)
+8	커다랗게	커다랗+게	SCONJ	paa+ecs	_	4	conj	_	_
+9	기지개하였다	기지개+하+었+다	VERB	ncpa+xsv+ep+ef	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	sf	_	9	punct	_	SpacesAfter=\s\n
+
+1	대동강의	대동강+의	NOUN	ncn+jcm	_	2	compound	_	_
+2	물은	물+은	NOUN	ncn+jxt	_	12	dislocated	_	_
+3	몇	몇	ADJ	mma	_	4	amod	_	_
+4	만	만	NUM	nnc	_	5	nummod	_	_
+5	년	년	NOUN	nbu	_	6	compound	_	_
+6	전과	전+과	CCONJ	ncn+jct	_	12	xcomp	_	_
+7	같이	같+이	SCONJ	paa+ecs	_	6	conj	_	_
+8	그냥	그냥	ADV	mag	_	12	advmod	_	_
+9	끊임없이	끊임없이	ADV	mag	_	12	advmod	_	_
+10	아래로	아래+로	ADV	ncn+jca	_	12	advcl	_	_
+11	아래로	아래+로	ADV	ncn+jca	_	12	advcl	_	_
+12	흘러간다	흘러가+ㄴ다	AUX	pvg+ecx+px+ef	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	sf	_	12	punct	_	SpacesAfter=\s\n
+
+1	그	그	DET	mmd	_	2	det	_	_
+2	물은	물+은	NOUN	ncn+jxt	_	12	dislocated	_	_
+3	또한	또한	ADV	mag	_	7	advmod	_	_
+4	몇	몇	ADJ	mma	_	5	amod	_	_
+5	만	만	NUM	nnc	_	6	nummod	_	_
+6	년	년	NOUN	nbu	_	7	compound	_	_
+7	뒤에까지라도	뒤에까지라도	SCONJ	paa+ep+ecs	_	12	ccomp	_	_
+8	역시	역시	ADV	mag	_	12	advmod	_	_
+9	끊임없이	끊임없이	ADV	mag	_	12	advmod	_	_
+10	아래로	아래+로	ADV	ncn+jca	_	12	advcl	_	_
+11	아래로	아래+로	ADV	ncn+jca	_	12	advcl	_	_
+12	흐르겠지	흐르+겠+지	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	sf	_	12	punct	_	SpacesAfter=\s\n
+
+1	그리고	그리고	CCONJ	maj	_	16	cc	_	_
+2	그	그	DET	mmd	_	4	det	_	_
+3	푸르른	푸르르+ㄴ	ADJ	paa+etm	_	4	amod	_	_
+4	정기와	정기+와	CCONJ	ncn+jcj	_	8	advcl	_	_
+5	아름다운	아름답+ㄴ	ADJ	paa+etm	_	6	amod	_	_
+6	정서로써	정서+로써	ADV	ncpa+jca	_	4	conj	_	_
+7	장래	장래	NOUN	ncn	_	8	compound	_	_
+8	영구히	영구히	ADV	ncps+xsa	_	16	obl	_	_
+9	자기를	자기+를	PRON	npp+jco	_	10	obj	_	_
+10	굽어보는	굽+어+보+는	AUX	pvg+ecx+px+etm	_	11	acl	_	_
+11	몇만의	몇만+의	PROPN	nq+jcm	_	12	nmod	_	_
+12	시인에게	시인+에게	ADV	ncpa+jca	_	16	advcl	_	_
+13	몇만	몇+만	NUM	nnc+nnc	_	14	nummod	_	_
+14	편의	편+의	NOUN	nbu+jcm	_	15	nmod	_	_
+15	시를	시+를	NOUN	ncn+jco	_	16	obj	_	_
+16	주겠지	주+겠+지	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	sf	_	16	punct	_	SpacesAfter=\s\n
+
+1	장칭류의	장칭류+의	NOUN	ncn+jcm	_	2	nmod	_	_
+2	대동강은	대동강+은	NOUN	ncn+jxt	_	6	dislocated	_	_
+3	그냥	그냥	ADV	mag	_	6	advmod	_	_
+4	아래로	아래+로	ADV	ncn+jca	_	6	advcl	_	_
+5	아래로	아래+로	ADV	ncn+jca	_	6	advcl	_	_
+6	흐른다	흐르+ㄴ다	VERB	pvg+ef	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	sf	_	6	punct	_	SpacesAfter=\s\n\n
+
+
+

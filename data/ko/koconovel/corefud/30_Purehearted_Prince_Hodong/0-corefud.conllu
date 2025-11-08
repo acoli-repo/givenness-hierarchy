@@ -1,0 +1,227 @@
+compound	_	_	part	5	compound	_	_
+2	고구려	고구려	PROPN	nq	_	5	compound	_	_
+3	대무신왕	대무신왕	PROPN	nq	_	2	flat	_	_
+4	십오	십+오	PROPN	nq	_	2	flat	_	_
+5	년	년	NOUN	nbu	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	sf	_	5	punct	_	SpacesAfter=\s\n
+
+1	가을	가을	NOUN	ncn	_	6	advmod	_	_
+2	해가	해+가	NOUN	ncn+jcs	_	6	nsubj	_	_
+3	서편	서편	NOUN	ncn	_	4	nmod	_	_
+4	벌판으로	벌판+으로	ADV	ncn+jca	_	6	advcl	_	_
+5	뉘엿뉘엿	뉘엿뉘엿	NOUN	ncn	_	6	obj	_	_
+6	넘어가려	넘어가+려	VERB	pvg+ecx	_	0	root	_	_
+7	한다	하+ㄴ다	AUX	px+ef	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	sf	_	7	punct	_	SpacesAfter=\s\n
+
+1	바야흐로	바야흐로	ADV	mag	_	3	advmod	_	_
+2	하늘을	하늘+을	NOUN	ncn+jco	_	3	obj	_	_
+3	찌를	찌+를	NOUN	ncn+jco	_	4	nmod	_	_
+4	듯한	듯+하+ㄴ	VERB	nbn+xsm+etm	_	6	acl	_	_
+5	고구려의	고구려+의	PROPN	nq+jcm	_	6	nmod	_	_
+6	세력이	세력+이	NOUN	ncn+jcs	_	9	nsubj	_	_
+7	한토의	한토+의	PROPN	nq+jcm	_	8	compound	_	_
+8	낙랑까지도	낙랑+까지+도	ADV	ncn+xsn+jxc+jxc	_	9	advcl	_	_
+9	집어삼켜서	집어삼키+어서	SCONJ	pvg+ecs	_	18	ccomp	_	_
+10	어제까지도	어제+까지+도	ADV	ncn+jxc+jxc	_	18	advcl	_	_
+11	낙랑의	낙랑+의	NOUN	ncpa+ncn+jcm	_	12	obj	_	_
+12	서울이던	서울+이+던	VERB	pvg+etm	_	13	acl	_	_
+13	땅이	땅이	NOUN	ncn+jcs	_	18	nsubj	_	_
+14	오늘의	오늘+의	NOUN	ncn+jcm	_	16	nmod	_	_
+15	고구려의	고구려+의	PROPN	nq+jcm	_	16	nmod	_	_
+16	일	일	NOUN	ncn	_	17	compound	_	_
+17	읍으로	읍+으로	ADV	ncn+jca	_	18	advcl	_	_
+18	되었다	되+었+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	sf	_	18	punct	_	SpacesAfter=\s\n
+
+1	그로써	그+로써	ADV	npd+jca	_	13	advcl	_	_
+2	읍의	읍+의	NOUN	ncn+jcm	_	3	nmod	_	_
+3	교외	교외	NOUN	nbn	_	6	nsubj	_	_
+4	멀리	멀리	ADV	mag	_	6	advmod	_	_
+5	패수를	패수+를	NOUN	ncn+jco	_	6	obj	_	_
+6	굽어보는	굽+어+보+는	VERB	pvg+etm	_	8	acl	_	_
+7	아담한	아담하+ㄴ	ADJ	paa+etm	_	8	amod	_	_
+8	재릉에	재릉+에	ADV	ncn+jca	_	13	obl	_	_
+9	한	한	NUM	nnc	_	10	nummod	_	_
+10	개	개	NOUN	nbu	_	12	compound	_	_
+11	새로운	새롭+ㄴ	ADJ	paa+etm	_	12	amod	_	_
+12	무덤이	무덤+이	NOUN	ncn+jcs	_	13	nsubj	_	_
+13	서	서+어	VERB	pvg+ecx	_	0	root	_	_
+14	있었다	있+었+다	AUX	px+ep+ef	_	13	aux	_	SpaceAfter=No
+15	.	.	PUNCT	sf	_	14	punct	_	SpacesAfter=\s\n
+
+1	고귀한	고귀+하+ㄴ	VERB	ncps+xsm+etm	_	2	amod	_	_
+2	사람의	사람+의	NOUN	ncn+jcm	_	3	nmod	_	_
+3	무덤인	무덤+이+ㄴ	VERB	ncn+jp+etm	_	4	acl	_	_
+4	듯	듯	NOUN	nbn	_	15	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	sp	_	4	punct	_	_
+6	그	그	DET	mmd	_	7	det	_	_
+7	앞에	앞+에	ADV	ncn+jca	_	8	obl	_	_
+8	아로새긴	아로새기+ㄴ	ADJ	paa+etm	_	9	amod	_	_
+9	돌이며	돌+이+며	CCONJ	ncn+jp+ecc	_	15	nsubj	_	_
+10	무덤의	무덤+의	NOUN	ncn+jcm	_	11	nmod	_	_
+11	높이가	높이+가	NOUN	ncn+jcs	_	9	conj	_	_
+12	보통	보통	NOUN	ncn	_	13	compound	_	_
+13	평민의	평민+의	NOUN	ncn+jcm	_	14	compound	_	_
+14	무덤은	무덤+은	NOUN	ncn+jxt	_	15	dislocated	_	_
+15	아니었다	아니+었+다	ADJ	paa+ep+ef	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	sf	_	15	punct	_	SpacesAfter=\s\n
+
+1	그리고	그리고	CCONJ	maj	_	12	cc	_	_
+2	이	이	DET	mmd	_	4	det	_	_
+3	근처의	근처+의	NOUN	ncn+jcm	_	4	nmod	_	_
+4	무덤이	무덤+이	NOUN	ncn+jcs	_	7	nsubj	_	_
+5	모두	모두	ADV	mag	_	7	advmod	_	_
+6	한풍을	한풍+을	NOUN	ncn+jco	_	7	obj	_	_
+7	띄운	띄우+ㄴ	VERB	pvg+etm	_	8	acl	_	_
+8	데	데	NOUN	nbn	_	9	mark	_	_
+9	반하여	반하+어	SCONJ	pvg+ecs	_	12	ccomp	_	_
+10	이	이	DET	mmd	_	11	det	_	_
+11	무덤만은	무덤+만+은	NOUN	ncn+jxc+jxt	_	12	obj	_	_
+12	고구려풍이다	고구려풍+이+다	VERB	ncn+jp+ef	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	sf	_	12	punct	_	SpacesAfter=\s\n
+
+1	황혼의	황혼+의	NOUN	ncn+jcm	_	2	compound	_	_
+2	해를	해+를	NOUN	ncn+jco	_	4	obj	_	_
+3	등으로	등+으로	ADV	nbn+jca	_	4	advcl	_	_
+4	받고	받+고	CCONJ	pvg+ecc	_	9	acl	_	_
+5	고요히	고요히	ADV	ncps+xsa	_	6	advcl	_	_
+6	누워	눕+어	VERB	pvg+ecx	_	4	conj	_	_
+7	있는	있+는	AUX	px+etm	_	6	aux	_	_
+8	이	이	DET	mmd	_	9	det	_	_
+9	무덤	무덤	NOUN	ncn	_	10	compound	_	_
+10	위로	위+로	ADV	ncn+jca	_	17	advcl	_	_
+11	깃을	깃+을	VERB	ncpa+xsv+ep+etm	_	15	acl	_	_
+12	찾아가는	찾아가+는	AUX	pvg+ecx+px+etm	_	11	aux	_	_
+13	몇	몇	ADJ	mma	_	14	amod	_	_
+14	마리의	마리+의	NOUN	nbu+jcm	_	15	nmod	_	_
+15	까마귀가	까마귀+가	NOUN	ncn+jcs	_	17	dislocated	_	_
+16	울며	울+며	CCONJ	pvg+ecc	_	0	root	_	_
+17	지나간다	지나가+ㄴ다	VERB	pvg+ef	_	16	conj	_	SpaceAfter=No
+18	.	.	PUNCT	sf	_	17	punct	_	SpacesAfter=\s\n
+
+1	황혼의	황혼+의	PROPN	nq+jcm	_	2	compound	_	_
+2	교외	교외	NOUN	ncn	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	sf	_	2	punct	_	SpacesAfter=\s\n
+
+1	황혼의	황혼+의	PROPN	nq+jcm	_	2	nmod	_	_
+2	무덤	무덤	NOUN	ncn	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	sf	_	2	punct	_	SpacesAfter=\s\n
+
+1	고요한	고요+하+ㄴ	ADJ	paa+etm	_	2	amod	_	_
+2	사위였다	사위+이+었+다	VERB	ncn+jp+ep+ef	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	sf	_	2	punct	_	SpacesAfter=\s\n
+
+1	황혼도	황혼+도	ADV	ncn+jxc	_	4	advcl	_	_
+2	어느덧	어느덧	ADV	mag	_	4	advmod	_	_
+3	대지로	대지+로	ADV	ncn+jca	_	4	advcl	_	_
+4	사라지고	사라지+고	CCONJ	pvg+ecc	_	6	acl	_	_
+5	불그스름한	불그스름+하+ㄴ	VERB	ncps+xsm+etm	_	4	conj	_	_
+6	가을	가을	NOUN	ncn	_	10	advmod	_	_
+7	달이	달+이	NOUN	ncn+jcs	_	10	nsubj	_	_
+8	동녘	동녘	NOUN	ncn	_	9	compound	_	_
+9	하늘로	하늘로	ADV	ncn+jca	_	10	advcl	_	_
+10	솟아올랐다	솟아오르+았+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	sf	_	10	punct	_	SpacesAfter=\s\n
+
+1	동녘	동녘	NOUN	ncn	_	2	compound	_	_
+2	하늘에	하늘+에	ADV	ncn+jca	_	3	obl	_	_
+3	솟아오른	솟아오르+ㄴ	VERB	pvg+etm	_	6	acl	_	_
+4	달의	달+의	NOUN	ncn+jcm	_	6	nmod	_	_
+5	그림자가	그림자+가	NOUN	ncn+jcs	_	6	compound	_	_
+6	소	소	NOUN	ncn	_	8	compound	_	_
+7	한	한	NUM	nnc	_	8	nummod	_	_
+8	마리의	마리+의	NOUN	nbu+jcm	_	9	nmod	_	_
+9	길이쯤	길이+쯤	NOUN	nbu+xsn	_	11	nsubj	_	_
+10	높이	높이	ADV	mag	_	11	advmod	_	_
+11	오른	오르+ㄴ	VERB	pvg+etm	_	12	ccomp	_	_
+12	때였다	때+이+었+다	VERB	nbn+jp+ep+ef	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	sf	_	12	punct	_	SpacesAfter=\s\n
+
+1	한	한	NUM	nnc	_	2	nummod	_	Entity=(0
+2	사람의	사람+의	NOUN	ncn+jcm	_	3	nmod	_	Entity=0)
+3	그림자가	그림자+가	NOUN	ncn+jcs	_	5	nsubj	_	_
+4	벌판에	벌판+에	ADV	ncn+jca	_	5	advcl	_	_
+5	나타났다	나타나+ㅆ+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	sf	_	5	punct	_	SpacesAfter=\s\n
+
+1	말을	말+을	NOUN	ncpa+jco	_	2	obj	_	_
+2	타고	타+고	CCONJ	pvg+ecc	_	0	root	_	_
+3	이	이	DET	mmd	_	4	det	_	_
+4	재릉으로	재릉+으로	ADV	ncn+jca	_	5	advcl	_	_
+5	향하여	향하+어	VERB	pvg+ecx	_	2	conj	_	_
+6	달려온다	달려오+ㄴ다	AUX	px+ef	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	sf	_	6	punct	_	SpacesAfter=\s\n
+
+1	말은	말+은	NOUN	ncpa+jxt	_	2	dislocated	_	_
+2	쉽지	쉽+지	ADJ	paa+ecx	_	4	amod	_	_
+3	않은	않+ㄴ	AUX	px+etm	_	2	aux	_	_
+4	명마로서	명마+로서	ADV	ncn+jca	_	10	advcl	_	_
+5	그	그	DET	mmd	_	6	det	_	_
+6	걸음걸이며	걸음걸+이+며	CCONJ	ncn+jp+ecc	_	10	nsubj	_	_
+7	숨소리의	숨소리+의	NOUN	ncn+jcm	_	6	conj	_	_
+8	웅장함이	웅장+하+ㅁ+이	NOUN	ncps+xsm+etn+jcs	_	9	nmod	_	_
+9	가위	가위	NOUN	nnc+ncn	_	10	obj	_	_
+10	용마라	용마+이+라	VERB	nq+jp+ef	_	23	ccomp	_	_
+11	할	하+ㄹ	AUX	px+etm	_	10	aux	_	_
+12	듯하나	듯+하+나	SCONJ	px+ecs	_	10	aux	_	_
+13	말께	말+께	ADV	ncn+xsn+jca	_	14	obl	_	Entity=(0
+14	오른	오르+ㄴ	VERB	pvg+etm	_	15	acl	_	_
+15	주인은	주인+은	NOUN	ncn+jxt	_	22	dislocated	_	Entity=0)
+16	기운이	기운+이	NOUN	ncn+jcs	_	18	nsubj	_	_
+17	하나도	하나+도	ADV	ncn+jxc	_	18	advcl	_	_
+18	없이	없+이	SCONJ	paa+ecs	_	20	xcomp	_	_
+19	말이	말+이	NOUN	ncpa+jcs	_	20	nsubj	_	_
+20	달려가는	달리+어+가+는	AUX	pvg+ecx+px+etm	_	21	acl	_	_
+21	대로	대로	NOUN	nbn	_	22	mark	_	_
+22	버려두는	버려두+는	VERB	pvg+etm	_	23	ccomp	_	_
+23	모양이다	모양+이+다	VERB	ncn+jp+ef	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	sf	_	23	punct	_	SpacesAfter=\s\n
+
+1	그러나	그러나	CCONJ	maj	_	10	cc	_	_
+2	말은	말+은	NOUN	ncpa+jxt	_	10	dislocated	_	_
+3	이	이	DET	mmd	_	4	det	_	_
+4	길에	길+에	ADV	ncn+jca	_	5	obl	_	_
+5	익은	익+ㄴ	VERB	pvg+etm	_	6	acl	_	_
+6	듯	듯	NOUN	nbn	_	10	advmod	_	_
+7	일직선으로	일직선+으로	ADV	ncn+jca	_	10	advcl	_	_
+8	무덤을	무덤+을	NOUN	ncn+jco	_	9	obj	_	_
+9	향해	향하+어	SCONJ	pvg+ecs	_	10	ccomp	_	_
+10	달려온다	달려오+ㄴ다	AUX	pvg+ecx+px+ef	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	sf	_	10	punct	_	SpacesAfter=\s\n
+
+1	이윽고	이윽고	ADV	mag	_	3	advmod	_	_
+2	무덤까지	무덤+까지	ADV	pvg+etn+jxc	_	3	obl	_	_
+3	달려	달리+어	VERB	pvg+ecx	_	5	acl	_	_
+4	온	오+ㄴ	AUX	px+etm	_	3	aux	_	_
+5	말은	말+은	NOUN	ncpa+jxt	_	10	dislocated	_	_
+6	무덤	무덤	NOUN	ncn	_	7	compound	_	_
+7	정면을	정면+을	NOUN	ncn+jco	_	8	obj	_	_
+8	피하여	피하+어	SCONJ	pvg+ecs	_	10	ccomp	_	_
+9	측면으로	측면+으로	ADV	ncn+jca	_	10	advcl	_	_
+10	돌아갔다	돌+아+가+ㅆ+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	sf	_	10	punct	_	SpacesAfter=\s\n
+
+1	그러고는	그러하+고+는	NOUN	mag+jxt	_	13	amod	_	_
+2	마치	마치	ADV	mag	_	4	advmod	_	_
+3	다	다	ADV	mag	_	4	advmod	_	_
+4	왔다는	왔+다는	VERB	pvg+etm	_	5	acl	_	_
+5	것을	것+을	NOUN	nbn+jco	_	7	obj	_	_
+6	주인에게	주인+에게	ADV	ncn+jca	_	7	iobj	_	Entity=(0)
+7	알리려는	알리+려는	VERB	pvg+etm	_	8	acl	_	_
+8	듯	듯	NOUN	nbn	_	13	advmod	_	_
+9	발로서	발+로서	ADV	ncn+jca	_	13	advcl	_	_
+10	땅을	땅+을	NOUN	ncn+jco	_	11	obj	_	_
+11	긁으면서	긁으면서	SCONJ	pvg+ecs	_	12	ccomp	_	_
+12	우렁차게	우렁차+게	SCONJ	paa+ecs	_	13	ccomp	_	_
+13	울었다	울+었+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	sf	_	13	punct	_	SpacesAfter=\s\n
+
+1	말	말	NOUN	ncn	_	2	compound	_	Entity=(0
+2	주인은	주인+은	NOUN	ncn+jxt	_	4	dislocated	_	Entity=0)
+3	말에서	말+에서	ADV	ncpa+jca	_	4	advcl	_	_
+4	내렸다	내리+었+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	sf	_	4	punct	_	SpacesAfter=\s\n\n
+
+
+

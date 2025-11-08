@@ -1,0 +1,104 @@
+nsubj	_	_	part	12	nsubj	_	_
+2	어떤	어떤	DET	mmd	_	3	det	_	_
+3	암흑이	암흑+이	NOUN	ncn+jcs	_	5	nsubj	_	_
+4	어떻게	어떻+게	SCONJ	pad+ecs	_	5	xcomp	_	_
+5	있는지는	있+는지	NOUN	paa+ecs+jxt	_	6	obj	_	_
+6	알	알+ㄹ	VERB	pvg+etm	_	12	ccomp	_	_
+7	수가	수+가	NOUN	nbn+jcs	_	6	aux	_	_
+8	없되	없+되	SCONJ	paa+ecs	_	7	fixed	_	_
+9	막연하나마	막연+하+나마	ADV	mag	_	12	advcl	_	_
+10	그의	그+의	PRON	npp+jcm	_	11	nmod	_	Entity=(1)
+11	앞에	앞+에	ADV	ncn+jca	_	12	obl	_	_
+12	걸려	걸리+어	VERB	pvg+ecx	_	14	acl	_	_
+13	있는	있+는	AUX	px+etm	_	12	aux	_	_
+14	것은	것+은	NOUN	nbn+jxt	_	16	dislocated	_	_
+15	끝없는	끝없+는	ADJ	paa+etm	_	16	amod	_	_
+16	암흑뿐이었습니다	암흑뿐이었습니다	VERB	ncn+jp+ep+ef	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	sf	_	16	punct	_	SpacesAfter=\s\n
+
+1	차디찬	차디찬	ADJ	paa+etm	_	2	amod	_	_
+2	가정	가정	NOUN	ncn	_	5	compound	_	SpaceAfter=No
+3	,	,	PUNCT	sp	_	2	punct	_	_
+4	그	그	DET	mmd	_	5	det	_	_
+5	가운데서	가운데+서	ADV	ncn+jca	_	9	advcl	_	_
+6	적의와	적의+와	CCONJ	ncn+jcj	_	9	obj	_	_
+7	동정을	동정+을	NOUN	ncn+jco	_	6	conj	_	_
+8	아울러	아울러	ADV	mag	_	9	advmod	_	_
+9	품은	품+ㄴ	VERB	pvg+etm	_	10	acl	_	_
+10	중년의	중년+의	NOUN	ncn+jcm	_	14	dislocated	_	Entity=(3
+11	내외는	내외+는	NOUN	ncn+jxt	_	12	obj	_	Entity=3)
+12	고적한	고적+하+ㄴ	VERB	ncps+xsm+etm	_	13	acl	_	_
+13	그날그날을	그날그날+을	NOUN	ncn+jco	_	14	obj	_	_
+14	보내고	보내+고	VERB	pvg+ecx	_	0	root	_	_
+15	있었습니다	있+었+습니다	AUX	px+ep+ef	_	14	aux	_	SpaceAfter=No
+16	.	.	PUNCT	sf	_	15	punct	_	SpacesAfter=\s\n
+
+1	그들이	그+들+이	PRON	npp+xsn+jcs	_	3	nsubj	_	Entity=(3)
+2	마흔네	마흔네	PRON	npp	_	3	dep	_	_
+3	살	살+ㄹ	VERB	pvg+etm	_	4	acl	_	_
+4	나는	나+는	PRON	npp+jxt	_	10	dislocated	_	_
+5	해에	해+에	ADV	ncn+jca	_	10	obl	_	_
+6	어떤	어떤	DET	mmd	_	8	det	_	_
+7	달	달	NOUN	ncn	_	8	compound	_	_
+8	월경을	월경+을	NOUN	ncn+jco	_	9	obj	_	_
+9	건너	건너+어	SCONJ	pvg+ecs	_	10	ccomp	_	_
+10	뛰었습니다	뛰었습니다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	sf	_	10	punct	_	SpacesAfter=\s\n
+
+1	처음에는	처음+에+는	NOUN	ncn+jca+jxt	_	6	dislocated	_	_
+2	그것을	그것+을	PRON	npd+jco	_	6	obj	_	_
+3	다만	다만	ADV	mag	_	6	advmod	_	_
+4	단산의	단산+의	NOUN	ncn+jcm	_	5	nmod	_	_
+5	징조로	징조+로	ADV	ncn+jca	_	6	advcl	_	_
+6	알았습니다	알았습니다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	sf	_	6	punct	_	SpacesAfter=\s\n
+
+1	벌써	벌써	ADV	mag	_	2	advmod	_	_
+2	생산에	생산+에	ADV	nq+jca	_	3	obl	_	_
+3	대해서는	대하+어서+는	NOUN	pvg+ecs+jxt	_	4	ccomp	_	_
+4	단념하였던	단념+하+었+던	VERB	pvg+ep+etm	_	12	ccomp	_	_
+5	그였었지만	그였+었+지만	SCONJ	pvg+ep+ecs	_	4	aux	_	Entity=(2)
+6	이	이	DET	mmd	_	7	det	_	_
+7	절망적	절망+적	NOUN	ncn+xsn	_	8	nmod	_	_
+8	현상에	현상+에	ADV	ncn+jca	_	9	obl	_	_
+9	아내는	아내+는	NOUN	ncn+jxt	_	12	dislocated	_	Entity=(2)
+10	다시금	다시금	ADV	mag	_	12	advmod	_	_
+11	가슴을	가슴+을	NOUN	ncn+jco	_	12	obj	_	_
+12	죄었습니다	죄었습니다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	sf	_	12	punct	_	SpacesAfter=\s\n
+
+1	이	이	DET	mmd	_	2	det	_	_
+2	일은	일+은	NOUN	ncn+jxt	_	4	dislocated	_	_
+3	남편에게는	남편+에게+는	NOUN	ncn+jca+jxt	_	4	obj	_	Entity=(1)
+4	말하지	말하+지	VERB	pvg+ecx	_	0	root	_	_
+5	않았습니다	않+았+습니다	AUX	px+ep+ef	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	sf	_	5	punct	_	SpacesAfter=\s\n
+
+1	그랬더니	그렇+었+더니	SCONJ	pad+ep+ecs	_	8	xcomp	_	_
+2	한두	한두	NUM	nnc	_	3	nummod	_	_
+3	달	달	NOUN	nbu	_	4	compound	_	_
+4	지나면서부터	지나+면서+부터	ADV	ncpa+xsv+ecs+jxc	_	8	advcl	_	_
+5	그의	그+의	PRON	npp+jcm	_	6	nmod	_	Entity=(2)
+6	입맛이	입맛+이	NOUN	ncn+jcs	_	8	dislocated	_	_
+7	현저히	현저+히	ADV	mag	_	8	advmod	_	_
+8	달라졌습니다	다르+아+지+었+습니다	AUX	paa+ecx+px+ep+ef	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	sf	_	8	punct	_	SpacesAfter=\s\n
+
+1	석	석	NOUN	ncn	_	2	nmod	_	_
+2	달이	달+이	NOUN	ncn+jcs	_	3	nsubj	_	_
+3	지난	지나+ㄴ	VERB	pvg+etm	_	4	acl	_	_
+4	뒤에는	뒤+에+는	NOUN	ncn+jca+jxt	_	5	dislocated	_	_
+5	잉태한	잉태+하+ㄴ	VERB	ncpa+xsv+etm	_	6	acl	_	_
+6	것이	것+이	NOUN	nbn+jcs	_	7	nsubj	_	_
+7	분명하여졌습니다	분명하여졌습니다	AUX	ncps+xsm+ecx+px+ep+ef	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	sf	_	7	punct	_	SpacesAfter=\s\n
+
+1	이리하여	이리하+어	SCONJ	pvg+ecs	_	3	ccomp	_	Entity=(0
+2	세상에	세상+에	ADV	ncn+jca	_	3	obl	_	_
+3	나온	나오+ㄴ	VERB	pvg+etm	_	4	acl	_	_
+4	것이	것+이	NOUN	nbn+jcs	_	5	nsubj	_	Entity=0)
+5	만득이였습니다	만득이였습니다	VERB	ncn+jp+ep+ef	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	sf	_	5	punct	_	SpacesAfter=\s\n\n|Entity=(0)
+
+
+

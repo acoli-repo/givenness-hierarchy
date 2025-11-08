@@ -1,0 +1,115 @@
+dep	_	_	part	3	dep	_	_
+2	"	"	PUNCT	sl	_	1	punct	_	SpaceAfter=No
+3	여보게	여보+게	SCONJ	paa+ecs	_	17	ccomp	_	SpaceAfter=No
+4	,	,	PUNCT	sp	_	3	punct	_	_
+5	나의	나+의	PRON	npp+jcm	_	6	nmod	_	Entity=(2)
+6	가슴을	가슴+을	NOUN	ncn+jco	_	8	obj	_	_
+7	좀	좀	ADV	mag	_	8	advmod	_	_
+8	문질러	문지르+어	VERB	pvg+ecx	_	3	conj	_	_
+9	주게	주+게	AUX	px+ecx	_	8	aux	_	SpaceAfter=No
+10	"	"	PUNCT	sr	_	3	punct	_	SpacesAfter=\s\n
+
+11	하고서는	하고서+는	NOUN	pvg+ecs+jxt	_	16	dislocated	_	_
+12	그의	그+의	PRON	npp+jcm	_	13	nmod	_	Entity=(2)
+13	눈에서는	눈+에서+는	NOUN	ncn+jca+jxt	_	14	compound	_	_
+14	눈물이	눈물+이	NOUN	ncn+jcs	_	16	nsubj	_	_
+15	비	비	NOUN	ncn	_	16	dep	_	_
+16	오듯	오+듯	SCONJ	pvg+ecs	_	17	ccomp	_	_
+17	하였다	하+었+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	sf	_	17	punct	_	SpacesAfter=\s\n
+
+1	그러나	그러나	CCONJ	maj	_	6	cc	_	_
+2	그의	그+의	PRON	npp+jcm	_	3	nmod	_	Entity=(2)
+3	목소리는	목소리+는	NOUN	ncn+jxt	_	6	dislocated	_	_
+4	점점	점점	ADV	mag	_	6	advmod	_	_
+5	풀이	풀+이	NOUN	ncn+jcs	_	6	nsubj	_	_
+6	죽어지며	죽+어+지+며	CCONJ	pvg+ecc	_	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	sp	_	6	punct	_	SpacesAfter=\s\n
+
+8	"	"	PUNCT	sl	_	9	punct	_	SpaceAfter=No|Entity=(2)
+9	나의	나+의	PRON	npp+jcm	_	10	nmod	_	_
+10	눈물은	눈물+은	NOUN	ncn+jxt	_	15	dislocated	_	_
+11	우리	우리	PRON	npp	_	13	compound	_	Entity=(1
+12	정다운	정답+ㄴ	ADJ	paa+etm	_	13	amod	_	_
+13	친구를	친구+를	NOUN	ncn+jco	_	15	obj	_	Entity=1)
+14	마지막으로	마지막+으로	ADV	ncn+jca	_	15	advcl	_	_
+15	작별하는	작별+하+는	VERB	ncpa+xsv+etm	_	6	conj	_	_
+16	눈물이다	눈물+이+다	VERB	ncn+jp+ef	_	15	aux	_	SpaceAfter=No
+17	!	!	PUNCT	sf	_	16	punct	_	SpaceAfter=No
+
+1	"	"	PUNCT	sl	_	2	punct	_	SpacesAfter=\s\n
+2	우일의	우일+의	NOUN	ncn+jcm	_	5	dislocated	_	Entity=(1)
+3	눈에서도	눈+에서+도	ADV	ncn+jca+jxc	_	5	advcl	_	_
+4	눈물이	눈물+이	NOUN	ncn+jcs	_	5	nsubj	_	_
+5	나왔다	나오+았+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	sf	_	5	punct	_	SpacesAfter=\s\n
+
+1	정희는	정희+는	NOUN	ncn+jxt	_	4	dislocated	_	Entity=(0)
+2	또다시	또다시	ADV	mag	_	4	advmod	_	_
+3	일복을	일복+을	NOUN	ncn+ncpa+jco	_	4	obj	_	Entity=(2)
+4	잡으며	잡+으며	CCONJ	pvg+ecx+px+ep+ecc	_	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	sp	_	4	punct	_	SpacesAfter=\s\n
+6	"	"	PUNCT	sl	_	7	punct	_	SpaceAfter=No
+7	일복	일복	NOUN	ncn	_	8	dep	_	_
+8	씨	씨	NOUN	ncn	_	4	conj	_	SpaceAfter=No
+9	!	!	PUNCT	sf	_	8	punct	_	_
+
+?	"일복	?	?	?	?	?	?	?	Entity=(2
+?	씨!	?	?	?	?	?	?	?	Entity=2)
+1	저에게	저+에게	ADV	ncn+jca	_	18	advcl	_	Entity=(0)
+2	다만	다만	ADV	mag	_	16	advmod	_	_
+3	한마디	한마디	NOUN	ncn	_	4	compound	_	_
+4	말씀이라도	말씀이라도	ADV	ncpa+jxc	_	6	advcl	_	_
+5	아내라고	아내+라+고	ADV	ncn+jca	_	6	advcl	_	_
+6	불러	부르+어	VERB	pvg+ecx	_	11	acl	_	_
+8	!	!	PUNCT	sf	_	6	punct	_	SpaceAfter=No
+9	"	"	PUNCT	sr	_	6	punct	_	SpacesAfter=\s\n
+10	할	하+ㄹ	VERB	pvg+etm	_	6	conj	_	_
+11	때	때	NOUN	ncn	_	16	advmod	_	_
+12	일복은	일복+은	NOUN	ncn+jxt	_	16	dislocated	_	Entity=(2)
+13	다시	다시	ADV	mag	_	16	advmod	_	_
+14	정희를	정희+를	NOUN	ncpa+ncpa+jco	_	16	obj	_	Entity=(0)
+15	물끄러미	물끄러미	ADV	mag	_	16	advmod	_	_
+16	바라보더니	바라보+더니	SCONJ	pvg+ecs	_	18	ccomp	_	_
+17	고개를	고개+를	NOUN	ncn+jco	_	18	obj	_	_
+18	내두르며	내두르+며	CCONJ	pvg+ecc	_	0	root	_	SpaceAfter=No
+19	,	,	PUNCT	sp	_	18	punct	_	SpacesAfter=\s\n
+
+20	"	"	PUNCT	sl	_	21	punct	_	SpaceAfter=No
+21	환영은	환영+은	NOUN	ncn+jxt	_	22	dep	_	_
+22	언제든지	언제든지	ADV	mag	_	23	advmod	_	_
+23	환영	환영	NOUN	ncn	_	18	conj	_	SpaceAfter=No
+24	!	!	PUNCT	sf	_	23	punct	_	_
+1	죽은	죽+ㄴ	VERB	pvg+etm	_	2	acl	_	_
+2	정희의	정희+의	NOUN	ncn+jcm	_	3	nmod	_	Entity=(0)
+3	환영	환영	NOUN	ncn	_	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	sf	_	3	punct	_	_
+1	죽음을	죽음+을	NOUN	ncn+jco	_	2	obj	_	_
+2	찰나	찰+나	CCONJ	ncn+jcj	_	5	acl	_	_
+3	앞에	앞+에	ADV	ncn+jca	_	4	obl	_	_
+4	둔	두+ㄴ	VERB	pvg+etm	_	2	conj	_	_
+5	나로서도	나로서+도	ADV	ncn+jca+jxc	_	9	advcl	_	Entity=(2)
+6	그런	그런	DET	mmd	_	8	det	_	_
+7	어리석은	어리석+ㄴ	ADJ	paa+etm	_	8	amod	_	_
+8	짓은	짓+은	NOUN	ncn+jxt	_	9	obj	_	_
+9	하지	하+지	VERB	pvg+ecx	_	0	root	_	_
+10	못하겠다	못+하+겠+다	AUX	px+ep+ef	_	9	aux	_	SpaceAfter=No
+11	…	…	PUNCT	sf	_	10	punct	_	SpaceAfter=No
+
+1	"	"	PUNCT	sl	_	2	punct	_	SpacesAfter=\s\n
+2	하고서	하+고서	NOUN	ncn	_	8	nsubj	_	_
+3	우일의	우일+의	NOUN	ncn+jcm	_	4	compound	_	Entity=(1)
+4	팔에	팔+에	ADV	ncn+jca	_	6	obl	_	_
+5	힘	힘	NOUN	ncn	_	6	dep	_	_
+6	있게	있+게	SCONJ	paa+ecs	_	8	xcomp	_	_
+7	몸을	몸+을	NOUN	ncn+jco	_	8	obj	_	_
+8	비틀	비틀	NOUN	ncn	_	12	dislocated	_	_
+9	때	때	NOUN	ncn	_	12	advmod	_	_
+10	심장의	심장+의	NOUN	ncn+jcm	_	11	compound	_	_
+11	고동은	고동+은	NOUN	ncpa+jxt	_	12	dislocated	_	_
+12	정지하고	정지+하+고	VERB	ncpa+xsv+ecx	_	0	root	_	_
+13	말았다	말+았+다	AUX	px+ep+ef	_	12	aux	_	SpaceAfter=No
+14	.	.	PUNCT	sf	_	13	punct	_	SpacesAfter=\s\n\n
+
+
+

@@ -1,0 +1,23 @@
+compound	_	_	part	2	compound	_	_
+2	다만	다만	ADV	mag	_	9	advmod	_	_
+3	문환이만	문환이+만	ADV	ncn+jxc	_	4	advcl	_	Entity=(0)
+4	곤한	곤+하+ㄴ	VERB	ncps+xsm+etm	_	5	acl	_	_
+5	잠이	잠+이	NOUN	ncn+jcs	_	6	nsubj	_	_
+6	들어	들+어	SCONJ	pvg+ecs	_	9	ccomp	_	_
+7	가끔	가끔	ADV	mag	_	9	advmod	_	_
+8	잠짓을	잠짓+을	NOUN	ncn+jco	_	9	dep	_	_
+9	할	하+ㄹ	VERB	pvg+etm	_	0	root	_	_
+10	뿐이었다	뿐+이+었+다	VERB	nbn+jp+ep+ef	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	sf	_	10	punct	_	SpacesAfter=\s\n
+
+1	어두운	어둡+ㄴ	ADJ	paa+etm	_	2	amod	_	_
+2	가운데에	가운데+에	ADV	ncn+jca	_	7	advcl	_	_
+3	두	두	NUM	nnc	_	4	nummod	_	Entity=(1
+4	혼은	혼+은	NOUN	ncn+jxt	_	5	dislocated	_	Entity=1)
+5	활개를	활개+를	NOUN	ncn+jco	_	6	obj	_	_
+6	치고	치+고	CCONJ	pvg+ecc	_	0	root	_	_
+7	뛰놀았다	뛰놀+았+다	VERB	pvg+ep+ef	_	6	conj	_	SpaceAfter=No
+8	.	.	PUNCT	sf	_	7	punct	_	SpacesAfter=\s\n\n
+
+
+

@@ -1,0 +1,74 @@
+dislocated	_	_	part	13	dislocated	_	_
+2	신현이	신현+이	NOUN	ncn+jcs	_	3	obj	_	Entity=(3)
+3	놀라	놀라+아	SCONJ	pvg+ecs	_	4	ccomp	_	_
+4	만류하자	만류+하+자	CCONJ	ncpa+xsv+ecc	_	13	ccomp	_	_
+5	신수는	신수+는	NOUN	ncn+jxt	_	7	obj	_	Entity=(0)
+6	벌떡	벌떡	ADV	mag	_	7	advmod	_	_
+7	일어나	일어나+아	SCONJ	pvg+ecs	_	4	conj	_	_
+8	껄껄	껄껄	ADV	mag	_	13	advcl	_	_
+9	웃으매	웃으매+어	NOUN	ncn	_	10	nmod	_	_
+10	사람들이	사람+들+이	NOUN	ncn+xsn+jcs	_	13	nsubj	_	_
+11	모두	모두	ADV	mag	_	13	advmod	_	_
+12	정신	정신	NOUN	ncn	_	13	compound	_	_
+13	빠진	빠지+ㄴ	VERB	pvg+etm	_	18	acl	_	_
+14	것	것	NOUN	nbn	_	13	aux	_	_
+15	같이	같이	SCONJ	paa+ecs	_	14	fixed	_	_
+16	되어	되+어	VERB	pvg+ecx	_	13	conj	_	_
+17	쳐다보는	쳐다보+는	AUX	px+etm	_	16	aux	_	_
+18	속을	속+을	NOUN	ncn+jco	_	19	obj	_	_
+19	바랑을	바랑+을	VERB	ncpa+xsv+ep+etm	_	20	acl	_	_
+20	걷어지고	걷어지+고	CCONJ	pvg+ecx+px+ecc	_	0	root	_	_
+21	인사말도	인사말+도	ADV	ncn+jxc	_	22	advcl	_	_
+22	없이	없+이	SCONJ	paa+ecs	_	24	xcomp	_	_
+23	달아나	달아+나	ADV	ncn+jxc	_	24	advcl	_	_
+24	버렸다	버리+었+다	AUX	px+ep+ef	_	20	conj	_	SpaceAfter=No
+25	.	.	PUNCT	sf	_	24	punct	_	SpacesAfter=\s\n
+
+1	신수는	신수+는	NOUN	ncn+jxt	_	2	nmod	_	Entity=(0)
+2	나이	나이	NOUN	ncn	_	7	nsubj	_	_
+3	백	백	NUM	nnc	_	4	nummod	_	_
+4	살이	살+이	NOUN	ncn+jcs	_	5	nsubj	_	_
+5	넘고	넘+고	CCONJ	ncpa+xsv+ep+ecc	_	8	ccomp	_	_
+6	크게	크+게	SCONJ	paa+ecs	_	7	xcomp	_	_
+7	득도하여	득도+하+어	SCONJ	ncpa+xsv+ecs	_	5	conj	_	_
+8	왕생극락하였는데	왕생극락하였는데	SCONJ	ncpa+xsv+ep+ecs	_	12	ccomp	_	_
+9	그	그	DET	mmd	_	10	det	_	_
+10	시체에서는	시체+에서+는	NOUN	ncn+jca+jxt	_	12	nsubj	_	_
+11	발훈이	발훈+이	ADV	mag	_	12	advcl	_	_
+12	혁혁하고	혁혁+하+고	CCONJ	ncpa+xsv+ecc	_	18	acl	_	_
+13	기색이	기색+이	NOUN	ncn+jcs	_	14	obj	_	_
+14	화창하여	화창+하+어	SCONJ	ncpa+xsv+ecs	_	17	ccomp	_	_
+15	사람들이	사람+들+이	NOUN	ncn+xsn+jcs	_	17	nsubj	_	_
+16	모이어	모이어	SCONJ	pvg+ecs	_	17	ccomp	_	_
+17	화장할	화장+하+ㄹ	VERB	ncpa+xsv+etm	_	12	conj	_	_
+18	때	때	NOUN	ncn	_	23	advmod	_	_
+19	공중에서	공중+에서	ADV	ncn+jca	_	20	advcl	_	_
+20	향기로운	향기+롭+ㄴ	VERB	ncps+xsm+etm	_	21	acl	_	_
+21	바람이	바람+이	NOUN	ncn+jcs	_	22	nsubj	_	_
+22	일어	일+어	SCONJ	pvg+ecs	_	23	xcomp	_	_
+23	가시지	가시+지	VERB	pvg+ecx	_	0	root	_	_
+24	아니하였다	아니하+었+다	AUX	px+ep+ef	_	23	aux	_	SpaceAfter=No
+25	.	.	PUNCT	sf	_	24	punct	_	SpacesAfter=\s\n
+
+1	성	성	NOUN	ncn	_	2	compound	_	_
+2	옹의	옹+의	NOUN	ncn+jcm	_	18	dislocated	_	Entity=2)
+3	두	두	NUM	nnc	_	4	nummod	_	_
+4	아이는	아이+는	NOUN	ncn+jxt	_	7	dislocated	_	Entity=1)
+5	그때까지	그때+까지	ADV	ncn+jxc	_	6	advcl	_	_
+6	신수를	신수+를	NOUN	ncn+jco	_	7	obj	_	Entity=(0)
+7	모시고	모시+고	CCONJ	pvg+ecc	_	0	root	_	_
+8	있었으니	있+었+으니	SCONJ	paa+ep+ecs	_	18	xcomp	_	_
+9	이때	이때	NOUN	ncn	_	18	advmod	_	_
+10	상복을	상복+을	NOUN	ncn+jco	_	11	obj	_	_
+11	입고	입+고	CCONJ	pvg+ecc	_	14	acl	_	_
+12	곡하여	곡+하+어	SCONJ	ncpa+xsv+ecs	_	13	xcomp	_	_
+13	보는	보+는	VERB	pvg+etm	_	11	conj	_	_
+14	사람들까지	사람+들+까지	ADV	ncn+xsn+jxc	_	15	advcl	_	_
+15	비창한	비창+하+ㄴ	VERB	pvg+etm	_	16	acl	_	_
+16	마음을	마음+을	NOUN	ncn+jco	_	18	obj	_	_
+17	금치	금치	ADV	mag	_	18	advcl	_	_
+18	못하였었다	못하였+었+다	VERB	pvg+ep+ef	_	7	conj	_	SpaceAfter=No
+19	.	.	PUNCT	sf	_	18	punct	_	SpacesAfter=\s\n\n
+
+
+

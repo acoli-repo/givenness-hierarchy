@@ -1,0 +1,73 @@
+dislocated	_	_	part	5	dislocated	_	_
+2	심신이	심신+이	NOUN	ncn+jcs	_	5	nmod	_	_
+3	텅	텅	ADV	mag	_	4	advmod	_	_
+4	빈	비+ㄴ	ADJ	paa+etm	_	5	amod	_	_
+5	듯하였다	듯+하+었+다	VERB	nbn+xsm+ep+ef	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	sf	_	5	punct	_	SpacesAfter=\s\n
+
+1	그의	그+의	PRON	npp+jcm	_	2	nmod	_	Entity=(0)
+2	눈은	눈+은	NOUN	ncn+jxt	_	7	dislocated	_	_
+3	하염없이	하염없이	ADV	mag	_	7	advcl	_	_
+4	검은	검+ㄴ	ADJ	paa+etm	_	5	amod	_	_
+5	밤안개를	밤안개+를	NOUN	ncn+jco	_	7	obj	_	_
+6	물끄러미	물끄러미	ADV	mag	_	7	advcl	_	_
+7	바라보고	바라보+고	VERB	pvg+ecx	_	0	root	_	_
+8	있다	있+다	AUX	px+ef	_	7	aux	_	SpaceAfter=No
+9	.	.	PUNCT	sf	_	8	punct	_	SpacesAfter=\s\n
+
+1	그	그	DET	mmd	_	2	det	_	_
+2	사회란	+사회+란	ADV	ncn+jxc	_	6	advcl	_	_
+3	독한	독+하+ㄴ	ADJ	paa+etm	_	4	amod	_	_
+4	꼴을	꼴+을	NOUN	ncn+jco	_	5	obj	_	_
+5	그려보는	그려보+는	VERB	pvg+etm	_	6	ccomp	_	_
+6	것같이	것+같이	ADV	nbn+jxc	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	sf	_	6	punct	_	SpacesAfter=\s\n
+
+1	쏠쏠한	쏠쏠+하+ㄴ	VERB	ncps+xsm+etm	_	2	acl	_	_
+2	새벽바람이	새벽바람+이	NOUN	ncn+jcs	_	3	obj	_	_
+3	싸늘하게	싸늘+하+게	SCONJ	ncps+xsm+ecs	_	5	ccomp	_	_
+4	가슴에	가슴+에	ADV	ncn+jca	_	5	obl	_	_
+5	부딪힌다	부딪히+ㄴ다	VERB	pvg+ef	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	sf	_	5	punct	_	SpacesAfter=\s\n
+
+1	그	그	DET	mmd	_	2	det	_	_
+2	부딪치는	부딪치+는	NOUN	ncn+jxt	_	11	dislocated	_	_
+3	서슬에	서슬+에	ADV	ncn+jca	_	6	advcl	_	_
+4	잠	잠	NOUN	ncn	_	6	nsubj	_	_
+5	못	못	ADV	mag	_	6	advmod	_	_
+6	자고	자+고	CCONJ	pvg+ecc	_	11	obj	_	_
+7	피곤한	피곤+하+ㄴ	VERB	ncps+xsm+etm	_	8	acl	_	_
+8	몸이	몸+이	NOUN	ncn+jcs	_	9	nsubj	_	_
+9	부서질	부서질	NOUN	ncn	_	6	conj	_	_
+10	듯이	듯이	ADV	mag	_	11	advmod	_	_
+11	지긋하였다	지긋+하+었+다	VERB	ncpa+xsv+ep+ef	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	sf	_	11	punct	_	SpacesAfter=\s\n
+
+1	죽은	죽+ㄴ	VERB	pvg+etm	_	2	acl	_	_
+2	사람에게서뿐	사람에게서+뿐	NOUN	nbn	_	6	dislocated	_	_
+3	볼	보+ㄹ	VERB	pvg+etm	_	6	ccomp	_	_
+4	수	수	NOUN	nbn	_	3	aux	_	_
+5	있는	있+는	ADJ	paa+etm	_	4	fixed	_	_
+6	해쓱한	해쓱+하+ㄴ	VERB	ncpa+xsv+etm	_	8	acl	_	_
+7	얼굴이	얼굴+이	NOUN	ncn+jcs	_	8	compound	_	_
+8	경련하	경련하	NOUN	ncn	_	9	nmod	_	_
+9	듯	듯	NOUN	nbn	_	13	advmod	_	_
+10	떨며	떨+며	CCONJ	pvg+ecc	_	12	acl	_	_
+11	절망한	절망+하+ㄴ	VERB	ncpa+xsv+etm	_	10	conj	_	_
+12	어조로	어조+로	ADV	ncn+jca	_	13	advcl	_	_
+13	소곤거렸다	소곤거리+었+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	sf	_	13	punct	_	SpacesAfter=\s\n
+
+1	"	"	PUNCT	sl	_	2	punct	_	SpaceAfter=No
+2	그	그	DET	mmd	_	3	det	_	_
+3	몹쓸	몹쓸	ADV	mag	_	8	advcl	_	_
+4	사회가	사회+가	NOUN	ncn+jcs	_	8	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	sp	_	4	punct	_	_
+6	왜	왜	ADV	mag	_	8	advmod	_	_
+7	술을	술+을	NOUN	ncn+jco	_	8	obj	_	_
+8	권하는고	권하는+고	CCONJ	pvg+ecc	_	0	root	_	SpaceAfter=No
+9	!	!	PUNCT	sf	_	8	conj	_	SpaceAfter=No
+
+1	"	"	PUNCT	sl	_	0	root	_	SpacesAfter=\s\n\n
+
+

@@ -1,0 +1,46 @@
+dep	_	_	part	2	dep	_	_
+2	그러나	그러나	CCONJ	maj	_	22	cc	_	_
+3	그	그	DET	mmd	_	4	det	_	Entity=(2
+4	외조부	외조부	NOUN	ncn	_	22	dislocated	_	_
+5	황	황	NOUN	ncn	_	6	compound	_	_
+6	진사는	진사+는	NOUN	ncpa+jxt	_	22	dislocated	_	Entity=2)
+7	조	조	NOUN	ncn	_	8	compound	_	Entity=(3
+8	국장의	국장+의	NOUN	ncn+jcm	_	9	nmod	_	_
+9	첩이	첩+이	NOUN	ncn+jcs	_	13	nsubj	_	Entity=3)
+10	그	그	DET	mmd	_	11	det	_	_
+11	총애를	총애+를	NOUN	ncn+jco	_	13	obj	_	_
+12	일신에	일신+에	ADV	ncn+jca	_	13	advcl	_	_
+13	감으려고	감으려고	VERB	pvg+ecx	_	15	acl	_	_
+14	하는	하+는	AUX	px+etm	_	13	aux	_	_
+15	간책이	간책+이	NOUN	ncn+jcs	_	16	nsubj	_	_
+16	두려워	두렵+어	SCONJ	paa+ecs	_	22	ccomp	_	_
+17	가희와	가희+와	CCONJ	nq+jct	_	22	advmod	_	Entity=(0)
+18	함께	함께	ADV	mag	_	17	conj	_	_
+19	가엾은	가엾+ㄴ	NOUN	ncn+jxt	_	20	compound	_	_
+20	표랑의	표랑+의	NOUN	ncpa+jcm	_	21	nmod	_	_
+21	객이	객+이	NOUN	ncn+jcc	_	22	csubj	_	_
+22	되었다	되+었+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	sf	_	22	punct	_	SpacesAfter=\s\n
+
+1	하시에나	하시에+나	CCONJ	ncn+jcj	_	3	obj	_	_
+2	표랑객인	표랑객+이+ㄴ	NOUN	ncn	_	1	conj	_	_
+3	가련한	가련+하+ㄴ	VERB	ncps+xsm+etm	_	4	acl	_	_
+4	가희에게는	가희+에게+는	NOUN	ncn+jca+jxt	_	6	nsubj	_	Entity=(0)
+5	춘양려일이	춘양려일+이	ADV	mag	_	6	advcl	_	_
+6	돌아올는지	돌아올는지	SCONJ	pvg+ep+ecs	_	13	ccomp	_	_
+7	절기는	절기+는	NOUN	ncn+jxt	_	8	compound	_	_
+8	하추동	하추동	PROPN	nq	_	9	nmod	_	_
+9	삼계가	삼계+가	NOUN	ncn+jcs	_	10	nsubj	_	_
+10	지나면	지나+면	SCONJ	pvg+ecs	_	13	ccomp	_	_
+11	다시	다시	ADV	mag	_	13	advmod	_	_
+12	양춘이	양춘+이	NOUN	ncn+jcs	_	13	obj	_	_
+13	오건만	오건만	SCONJ	ncn+jp+ecs	_	0	root	_	SpaceAfter=No
+14	,	,	PUNCT	sp	_	13	punct	_	_
+15	불쌍한	불쌍하+ㄴ	VERB	ncps+xsm+etm	_	16	amod	_	_
+16	어머니의	어머니+의	NOUN	ncn+jcm	_	18	nmod	_	Entity=1)
+17	불쌍한	불쌍+하+ㄴ	VERB	ncps+xsm+etm	_	18	amod	_	_
+18	아이	아이	NOUN	ncn	_	13	conj	_	SpaceAfter=No
+19	?	?	PUNCT	sf	_	18	punct	_	SpacesAfter=\s\n\n|Entity=0)
+
+
+

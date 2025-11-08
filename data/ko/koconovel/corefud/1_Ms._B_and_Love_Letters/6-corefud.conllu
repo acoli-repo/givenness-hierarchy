@@ -1,0 +1,61 @@
+dep	_	_	part	2	dep	_	_
+2	하고	하+고	CCONJ	pvg+ecc	_	10	ccomp	_	_
+3	몸을	몸+을	NOUN	ncn+jco	_	4	obj	_	_
+4	추스르는데	추스르+는데	SCONJ	pvg+ep+ecs	_	2	conj	_	_
+5	그	그	DET	mmd	_	6	det	_	_
+6	음성은	음성+은	NOUN	ncn+jxt	_	10	dislocated	_	_
+7	분명	분명	ADV	mag	_	10	advmod	_	_
+8	울음의	울음+의	NOUN	ncn+jcm	_	9	nmod	_	_
+9	가락을	가락+을	NOUN	ncn+jco	_	10	obj	_	_
+10	띠었다	띠+었+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	sf	_	10	punct	_	SpacesAfter=\s\n
+
+1	"	"	PUNCT	sl	_	2	punct	_	SpaceAfter=No
+2	에구머니	에구머니	NOUN	ncn	_	3	nsubj	_	_
+3	저게	저+게	SCONJ	paa+ecs	_	4	ccomp	_	_
+5	!	!	PUNCT	sf	_	4	punct	_	SpaceAfter=No
+6	"	"	PUNCT	sr	_	4	punct	_	SpacesAfter=\s\n
+7	첫째	첫째	NUM	nno	_	8	nummod	_	Entity=(1
+8	처녀가	처녀+가	NOUN	ncn+jcs	_	9	nmod	_	Entity=1)
+9	소곤거렸다	소곤거리+었+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	sf	_	9	punct	_	SpacesAfter=\s\n
+
+1	"	"	PUNCT	sl	_	2	punct	_	SpaceAfter=No
+2	아마	아마	ADV	mag	_	3	advmod	_	_
+3	미쳤나	미쳤+나	ADV	ncn+jxc	_	4	advcl	_	_
+4	보아	보+아	SCONJ	pvg+ecs	_	8	ccomp	_	SpaceAfter=No
+5	,	,	PUNCT	sp	_	4	punct	_	_
+6	밤중에	밤중+에	ADV	ncn+jca	_	8	advcl	_	_
+7	혼자	혼자	ADV	mag	_	8	advmod	_	_
+8	일어나서	일어나+서	SCONJ	pvg+ecs	_	17	ccomp	_	_
+9	왜	왜	ADV	mag	_	17	advmod	_	_
+10	저리고	저리+고	CCONJ	pvg+ecc	_	16	compound	_	_
+12	.	.	PUNCT	sf	_	11	punct	_	SpaceAfter=No
+13	"	"	PUNCT	sr	_	14	punct	_	SpacesAfter=\s\n
+14	둘째	둘째	NUM	nno	_	15	nummod	_	Entity=(0
+15	처녀가	처녀+가	NOUN	ncn+jcs	_	16	compound	_	Entity=0)
+16	맞방망이를	맞방망이+를	NOUN	ncn+jco	_	17	obj	_	_
+17	친다	치+ㄴ다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+18	…	…	PUNCT	sf	_	17	punct	_	SpaceAfter=No
+
+1	.	.	PUNCT	sf	_	0	root	_	SpacesAfter=\s\n
+
+1	"	"	PUNCT	sl	_	2	punct	_	SpaceAfter=No
+2	에그	에그	NOUN	ncn	_	3	dep	_	_
+3	불쌍해	불쌍+하+어	VERB	ncps+xsm+ecx	_	6	dep	_	SpaceAfter=No
+4	!	!	PUNCT	sf	_	3	punct	_	SpaceAfter=No
+5	"	"	PUNCT	sr	_	3	punct	_	SpacesAfter=\s\n
+6	하고	하+고	CCONJ	pvg+ecc	_	0	root	_	SpaceAfter=No
+7	,	,	PUNCT	sp	_	6	punct	_	_
+8	셋째	셋째	NUM	nno	_	9	nummod	_	Entity=(2
+9	처녀는	처녀+는	NOUN	ncn+jxt	_	15	dislocated	_	Entity=2)
+10	손으로	손+으로	ADV	ncn+jca	_	11	advcl	_	_
+11	고인	고+이+ㄴ	VERB	pvg+etm	_	12	acl	_	_
+12	때	때	NOUN	nbn	_	15	advmod	_	_
+13	모르는	모르+는	VERB	pvg+etm	_	14	acl	_	_
+14	눈물을	눈물+을	NOUN	ncn+jco	_	15	obj	_	_
+15	씻었다	씻+었+다	VERB	pvg+ep+ef	_	6	conj	_	SpaceAfter=No
+16	.	.	PUNCT	sf	_	15	punct	_	SpacesAfter=\s\n\n
+
+
+

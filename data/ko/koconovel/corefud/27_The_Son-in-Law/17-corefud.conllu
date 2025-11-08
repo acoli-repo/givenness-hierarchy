@@ -1,0 +1,28 @@
+compound	_	_	part	3	compound	_	_
+2	"	"	PUNCT	sl	_	1	punct	_	SpaceAfter=No|Entity=(0
+3	문	문	NOUN	ncn	_	4	compound	_	_
+4	서방이	서방+이	NOUN	ncn+jcs	_	7	dislocated	_	Entity=0)
+5	사윈	사윈	PROPN	nq	_	7	obj	_	Entity=(1)
+6	잘	잘	ADV	mag	_	7	advmod	_	_
+7	골랐느니	골랐느+니	SCONJ	pad+ep+ecs	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	sf	_	7	punct	_	_
+1	그	그	DET	mmd	_	2	det	_	Entity=(1
+2	사람	사람	NOUN	ncn	_	3	compound	_	Entity=1)
+3	심지가	심지+가	NOUN	ncn+jcs	_	4	nsubj	_	_
+4	고우니까	고우니까	SCONJ	pvg+ecs	_	7	ccomp	_	_
+5	그런	그렇+ㄴ	DET	mmd	_	6	det	_	Entity=(1
+6	사위가	사위+가	NOUN	ncn+jcs	_	7	obj	_	Entity=1)
+7	되었지	되었+지	AUX	pvg+ecx+px+ep+ef	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	sf	_	7	punct	_	_
+1	그	그	DET	mmd	_	3	det	_	Entity=(2
+2	서울띠기	서울띠기	ADJ	paa+etn	_	3	amod	_	Entity=2)
+3	녀석을	녀석+을	NOUN	ncn+jco	_	4	obj	_	_
+4	주었어	주었+어	SCONJ	pvg+ecs	_	5	ccomp	_	_
+5	보게나	보게+나	CCONJ	ncn+jcj	_	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	sp	_	5	punct	_	_
+7	오쟁이지기	오쟁이지기	AUX	paa+ecx+px+etn	_	8	ccomp	_	_
+8	십상이지	십상이+지	VERB	ncn+jp+ef	_	5	conj	_	SpaceAfter=No
+9	.	.	PUNCT	sf	_	8	punct	_	SpaceAfter=No
+
+
+

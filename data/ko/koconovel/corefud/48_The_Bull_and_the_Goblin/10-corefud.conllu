@@ -1,0 +1,47 @@
+nsubj	_	_	part	2	nsubj	_	_
+2	죽게	죽+게	VERB	pvg+ecx	_	4	acl	_	_
+3	되었던	되+었+던	AUX	px+ep+etm	_	2	aux	_	_
+4	황소가	황소+가	NOUN	ncn+jcs	_	6	obj	_	Entity=(1)
+5	다시	다시	ADV	mag	_	6	advmod	_	_
+6	살아났을	살아나+ㅆ+ㄹ	VERB	pvg+ep+etm	_	17	ccomp	_	_
+7	뿐	뿐	NOUN	nbn	_	6	aux	_	_
+8	아니라	아니+라	SCONJ	paa+ecs	_	7	fixed	_	_
+9	이튿날부터는	이튿날부터는	NOUN	ncn+jxc+jxt	_	10	compound	_	_
+10	이전보다	이전+보다	ADV	ncn+jca	_	14	advcl	_	_
+11	백	백	NOUN	ncn	_	12	compound	_	_
+12	배나	배+나	ADV	ncn+jxc	_	14	advcl	_	_
+13	힘이	힘+이	NOUN	ncn+jcs	_	14	nsubj	_	_
+14	세어져서	세어지+어서	SCONJ	pvg+ecs	_	17	ccomp	_	_
+15	세상	세상	NOUN	ncn	_	16	compound	_	_
+16	사람들을	사람+들+을	NOUN	ncn+xsn+jco	_	17	obj	_	_
+17	놀래었습니다	놀래었습니다	VERB	ncpa+xsv+ep+ef	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	sf	_	17	punct	_	SpacesAfter=\s\n
+
+1	돌쇠는	돌쇠+는	NOUN	ncn+jxt	_	3	nsubj	_	Entity=(0)
+2	더욱	더욱	ADV	mag	_	3	advmod	_	_
+3	부지런해져서	부지런+하+어+지+어서	SCONJ	pvg+ecs	_	4	ccomp	_	_
+4	이른	이르+ㄴ	VERB	pvg+etm	_	5	acl	_	_
+5	아침부터	아침+부터	ADV	ncn+jxc	_	18	advcl	_	_
+6	백	백	NUM	nnc	_	7	nummod	_	Entity=(1
+7	마력의	마력+의	NOUN	ncn+jcm	_	9	nsubj	_	_
+8	소를	소+를	NOUN	ncn+jco	_	9	obj	_	Entity=1)
+9	몰며	몰+며	CCONJ	pvg+ecc	_	16	obj	_	SpaceAfter=No
+10	"	"	PUNCT	sl	_	11	punct	_	SpaceAfter=No|Entity=(2)
+11	도깨비	도깨비	NOUN	ncn	_	12	dep	_	_
+12	아니라	아니+라	SCONJ	paa+ecs	_	14	xcomp	_	_
+13	귀신이라도	귀신이라도	ADV	ncn+jxc	_	14	advcl	_	_
+14	불쌍하거든	불쌍하거+든	SCONJ	pvg+ecs	_	9	conj	_	_
+15	살려	살리+어	SCONJ	pvg+ecs	_	16	ccomp	_	_
+16	주어야	주+어야	VERB	pvg+ecx	_	18	ccomp	_	_
+17	하는	하+는	AUX	px+etm	_	16	aux	_	_
+18	법이야	법+이+야	VERB	nbn+jp+ef	_	24	ccomp	_	SpaceAfter=No
+19	"	"	PUNCT	sr	_	18	punct	_	SpaceAfter=No
+20	이렇게	이렇+게	SCONJ	pad+ecs	_	22	advmod	_	_
+21	속으로	속+으로	ADV	ncn+jca	_	22	advcl	_	_
+22	중얼거리고	중얼거리+고	CCONJ	pvg+ecc	_	0	root	_	_
+23	콧노래를	콧노래+를	NOUN	ncn+jco	_	24	obj	_	_
+24	불렀습니다	부르+었+습니다	VERB	pvg+ep+ef	_	22	conj	_	SpaceAfter=No
+25	.	.	PUNCT	sf	_	24	punct	_	SpacesAfter=\s\n\n
+
+
+

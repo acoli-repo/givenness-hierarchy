@@ -1,0 +1,70 @@
+dep	_	_	part	2	dep	_	_
+2	그러자	그러자	ADV	mag	_	12	advmod	_	_
+3	사면을	사면+을	NOUN	ncn+jco	_	12	dislocated	_	_
+4	한	한	NUM	nnc	_	5	nummod	_	_
+5	번	번	NOUN	nbu	_	6	dep	_	_
+6	돌아볼	돌아보+ㄹ	AUX	pvg+ecx+px+etm	_	7	acl	_	_
+7	겨를도	겨를+도	ADV	ncn+jxc	_	8	advcl	_	_
+8	없이	없+이	SCONJ	paa+ecs	_	12	xcomp	_	_
+9	그	그	DET	mmd	_	10	det	_	_
+10	성냥을	성냥+을	NOUN	ncn+jco	_	12	dislocated	_	_
+11	품속에	품속+에	ADV	ncn+jca	_	12	advcl	_	_
+12	감추었다	감추+었+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	sf	_	12	punct	_	SpacesAfter=\s\n
+
+1	이만하면	이만+하+면	CCONJ	maj	_	3	amod	_	_
+2	될	되+ㄹ	VERB	pvg+etm	_	1	conj	_	_
+3	일을	일+을	NOUN	ncn+jco	_	6	obj	_	_
+4	왜	왜	ADV	mag	_	6	advmod	_	_
+5	여태껏	여태껏	ADV	mag	_	6	advcl	_	_
+6	몰랐던가	몰랐던가	VERB	nno+nbu+jp+ef	_	7	ccomp	_	_
+7	하면서	하+면서	CCONJ	px+ecc	_	0	root	_	_
+8	그는	그+는	PRON	npp+jxt	_	10	dislocated	_	Entity=(0)
+9	싱그레	싱그레	ADV	ncn+jca	_	10	advcl	_	_
+10	웃었다	웃+었+다	VERB	pvg+ep+ef	_	7	conj	_	SpaceAfter=No
+11	.	.	PUNCT	sf	_	10	punct	_	SpacesAfter=\s\n
+
+1	그날	그날	NOUN	ncn	_	2	compound	_	_
+2	밤에	밤+에	ADV	ncn+jca	_	10	obl	_	_
+3	그	그	DET	mmd	_	4	det	_	_
+4	집에는	집+에+는	NOUN	ncn+jca+jxt	_	10	dislocated	_	_
+5	난데없는	난데없+는	ADJ	paa+etm	_	6	amod	_	_
+6	불이	불+이	NOUN	ncn+jcs	_	8	nsubj	_	_
+7	건넌방	건넌방	NOUN	ncn	_	8	compound	_	_
+8	뒤꼍	뒤꼍	NOUN	ncn	_	10	nsubj	_	_
+9	추녀로부터	추녀+로+부터	ADV	ncn+jca+jxc	_	10	obl	_	_
+10	일어났다	일어나+ㅆ+다	VERB	pvg+ep+ef	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	sf	_	10	punct	_	SpacesAfter=\s\n
+
+1	풍세를	풍세+를	NOUN	ncn+jco	_	2	nsubj	_	_
+2	얻은	얻+ㄴ	VERB	pvg+etm	_	3	acl	_	_
+3	불길이	불길+이	NOUN	ncn+jcs	_	12	nmod	_	_
+4	삽시간에	삽시간+에	ADV	ncn+jca	_	5	advcl	_	_
+5	온	오+ㄴ	VERB	pvg+etm	_	6	acl	_	_
+6	지붕에	지붕+에	ADV	ncn+jca	_	9	advcl	_	_
+7	번지며	번지+며	CCONJ	pvg+ecc	_	9	obl	_	_
+8	훨훨	훨훨	ADV	mag	_	7	conj	_	_
+9	타오를	타오+를	VERB	pvg+etm	_	12	acl	_	_
+10	제	제	ADJ	mma	_	11	amod	_	_
+11	뒷집	뒷집	NOUN	ncn	_	12	compound	_	_
+12	담	담	NOUN	ncn	_	28	dislocated	_	_
+13	모서리에서	모서리+에서	ADV	ncn+jca	_	14	advcl	_	_
+14	순이는	순이+는	VERB	pvg+etm	_	15	acl	_	Entity=(0)
+15	근래에	근래+에	ADV	ncn+jca	_	16	obl	_	_
+16	없이	없+이	SCONJ	paa+ecs	_	17	xcomp	_	_
+17	환한	환+하+ㄴ	VERB	ncpa+xsv+etm	_	18	acl	_	_
+18	얼굴로	얼굴+로	ADV	ncn+jca	_	21	advcl	_	_
+19	기뻐	기뻐	NOUN	ncn	_	21	dislocated	_	_
+20	못	못	ADV	mag	_	21	advmod	_	_
+21	견디겠다는	견디+겠+다는	VERB	pvg+ep+etm	_	28	ccomp	_	_
+22	듯이	듯이	ADV	mag	_	21	aux	_	_
+23	가슴을	가슴+을	NOUN	ncn+jco	_	24	obj	_	_
+24	두근거리며	두근거리+며	CCONJ	pvg+ecc	_	0	root	_	_
+25	모로	모+로	ADV	ncn+jca	_	26	advcl	_	_
+26	뛰고	뛰+고	CCONJ	pvg+ecc	_	24	conj	_	_
+27	세로	세+로	ADV	ncn+jca	_	28	advcl	_	_
+28	뛰었다	뛰+었+다	VERB	pvg+ep+ef	_	24	conj	_	SpaceAfter=No
+29	.	.	PUNCT	sf	_	28	punct	_	SpacesAfter=\s\n\n
+
+
+

@@ -1,0 +1,24 @@
+dep	_	_	part	2	dep	_	_
+2	그러면	그러면	SCONJ	ncpa+xsv+ecs	_	8	xcomp	_	_
+3	그	그	DET	mmd	_	4	det	_	_
+4	지령에	지령+에	ADV	ncn+jca	_	5	obl	_	_
+5	의하여	의하+어	SCONJ	pvg+ecs	_	6	ccomp	_	_
+6	움직일	움직이+ㄹ	VERB	pvg+etm	_	7	acl	_	_
+7	내가	내+가	PRON	npp+jcs	_	8	nsubj	_	Entity=(0)
+8	아니냐	아니+냐	ADJ	paa+ef	_	0	root	_	SpaceAfter=No
+9	!	!	PUNCT	sf	_	8	punct	_	SpacesAfter=\s\n
+
+1	멀리	멀리	ADV	mag	_	2	advmod	_	_
+2	들려오는	들려오+는	AUX	pvg+ecx+px+etm	_	4	acl	_	_
+3	바다물결	바다물결	NOUN	ncps	_	4	compound	_	_
+4	소리는	소리+는	NOUN	ncn+jxt	_	9	dislocated	_	_
+5	그의	그+의	PRON	npp+jcm	_	6	nmod	_	Entity=(0)
+6	걸음발을	걸음발+을	NOUN	ncn+jco	_	7	obj	_	_
+7	따라	따르+아	SCONJ	pvg+ecs	_	9	ccomp	_	_
+8	차츰	차츰	ADV	mag	_	9	advmod	_	_
+9	높아가고	높+아+가+고	AUX	pvg+ecx+px+ecx	_	0	root	_	_
+10	있다	있+다	AUX	px+ef	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	sf	_	10	punct	_	SpacesAfter=\s\n\n
+
+
+
