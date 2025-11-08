@@ -11,10 +11,11 @@ This repo includes
 - build and extraction scripts for OntoNotes and CorefUD formats (see `scripts/`)
 - build scripts to convert the Japanese NTC 1.5 corpus and the Korean KoCoNovel to CorefUD (see `data/jp` and `data/ko`)
 - mirrors of all CorefUD 1.3 corpora for English, Korean, Russian, Spanish (see `data/`)
+- documentation: [paper](doc/givenness-2025.paper.pdf), [slides](doc/givenness-2025.slides.pdf), [poster](doc/givenness-2025.poster.pdf), and [BibTex](doc/givenness-2025.bib)
 
 This repo does *not* include
 
-- OntoNotes corpora for Arabic, English and Chinese (but extracted data). You can get these (currently for free) from https://catalog.ldc.upenn.edu/LDC2013T19.
+- OntoNotes corpora for Arabic, English and Chinese. You can get these (currently for free) from https://catalog.ldc.upenn.edu/LDC2013T19. We do, however, provide data extracted from OntoNotes, as copyright restrictions do not apply to these excerpts -- as they neither allow to reconstruct any single line of the original text nor any original annotations.
 
 ## Usage conditions
 
