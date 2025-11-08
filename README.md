@@ -2,7 +2,7 @@
 
 Experiments for the corpus-based replication of Gundel et al. (1993)'s Givenness Hierarchy over all 7 languages originally considered by Gundel et al. (1990) and Gundel et al. (1993) as described in
 
-	> Christian Chiarcos (2025), [Revisiting the Givenness Hierarchy. A Corpus-Based Evaluation](https://aclanthology.org/2025.crac-1.3/). In Proceedings of the Eighth Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2025), held in conjunction with EMNLP-2025, Souzhou, China, Nov 9th, 2025, Association of Computational Linguistics, p.24-41 [https://aclanthology.org/2025.crac-1.3/](https://aclanthology.org/2025.crac-1.3/)
+> Christian Chiarcos (2025), [Revisiting the Givenness Hierarchy. A Corpus-Based Evaluation](https://aclanthology.org/2025.crac-1.3/). In Proceedings of the Eighth Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2025), held in conjunction with EMNLP-2025, Souzhou, China, Nov 9th, 2025, Association of Computational Linguistics, p.24-41 [https://aclanthology.org/2025.crac-1.3/](https://aclanthology.org/2025.crac-1.3/)
 
 ## Content
 
