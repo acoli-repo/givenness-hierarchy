@@ -6,12 +6,14 @@ Experiments for the corpus-based replication of Gundel et al. (1993)'s Givenness
 
 ## Content
 
+Please check out our [overview video at Youtube](https://youtu.be/za0pEDJHmRk).
+
 This repo includes
 
-- build and extraction scripts for OntoNotes and CorefUD formats (see `scripts/`)
-- build scripts to convert the Japanese NTC 1.5 corpus and the Korean KoCoNovel to CorefUD (see `data/jp` and `data/ko`)
-- mirrors of all CorefUD 1.3 corpora for English, Korean, Russian, Spanish (see `data/`)
-- documentation: [paper](doc/givenness-2025.paper.pdf), [slides](doc/givenness-2025.slides.pdf), [poster](doc/givenness-2025.poster.pdf), and [BibTex](doc/givenness-2025.bib)
+- **code**: build and extraction scripts for OntoNotes and CorefUD formats (see `scripts/`)
+- **code**: build scripts to convert the Japanese NTC 1.5 corpus and the Korean KoCoNovel to CorefUD (see `data/jp` and `data/ko`)
+- **data**: mirrors of all CorefUD 1.3 corpora for English, Korean, Russian, Spanish (see `data/`)
+- **documentation**: [paper](doc/givenness-2025.paper.pdf), [slides](doc/givenness-2025.slides.pdf), [poster](doc/givenness-2025.poster.pdf), and [BibTex](doc/givenness-2025.bib)
 
 This repo does *not* include
 
